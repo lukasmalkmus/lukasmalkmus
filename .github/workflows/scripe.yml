@@ -1,0 +1,29 @@
+name: Build README.md
+
+on:
+  push:
+  schedule:
+    - cron: "0 */1 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/README.md.tmpl"
+          writeTo: "README.md"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update README
+          branch: master
+          commit_user_name: Lukas Malkmus
+          commit_user_email: mail@lukasmalkmus.com
+          commit_author: Lukas Malkmus <mail@lukasmalkmus.com>
