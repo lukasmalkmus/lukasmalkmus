@@ -23,7 +23,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update README
-          branch: master
+          branch: main
           commit_user_name: Lukas Malkmus
           commit_user_email: mail@lukasmalkmus.com
           commit_author: Lukas Malkmus <mail@lukasmalkmus.com>
