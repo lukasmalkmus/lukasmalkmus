@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 1 month ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.9.1](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.9.1), 8 months ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
 - [paulfantom/ansible-rpi-exporter](https://github.com/paulfantom/ansible-rpi-exporter) ([0.0.1](https://github.com/paulfantom/ansible-rpi-exporter/releases/tag/0.0.1), 11 months ago) - raspberry pi prometheus metrics exporter
