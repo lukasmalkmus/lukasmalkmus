@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.1.1](https://github.com/axiomhq/cli/releases/tag/v0.1.1), 2 days ago) - The power of Axiom on the command line.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.1.1](https://github.com/axiomhq/cli/releases/tag/v0.1.1), 3 days ago) - The power of Axiom on the command line.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 2 months ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.9.1](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.9.1), 10 months ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
 - [lukasmalkmus/faktory_exporter](https://github.com/lukasmalkmus/faktory_exporter) ([v0.1.0](https://github.com/lukasmalkmus/faktory_exporter/releases/tag/v0.1.0), 3 years ago) - Prometheus exporter for Faktory stats.
