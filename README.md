@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.0](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.0), today) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.1](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.1), today) - A push interface to Axiom via Loki endpoint.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.1.2](https://github.com/axiomhq/cli/releases/tag/v0.1.2), 4 days ago) - The power of Axiom on the command line.
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 3 months ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
