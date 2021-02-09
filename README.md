@@ -16,7 +16,7 @@ It's me, Lukas. Software developer by day and night.
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.2](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.2), 2 weeks ago) - A push interface to Axiom via Loki endpoint.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 3 months ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
-- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.9.1](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.9.1), 10 months ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
+- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.9.1](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.9.1), 11 months ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
 
 #### 💬 Feedback
 
