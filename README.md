@@ -16,7 +16,7 @@ It's me, Lukas. Software developer by day and night.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v2.5.1](https://github.com/golangci/golangci-lint-action/releases/tag/v2.5.1), 3 weeks ago) - Official GitHub action for golangci-lint from it&#39;s authors
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.2](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.2), 1 month ago) - A push interface to Axiom via Loki endpoint.
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 4 months ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
+- [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 5 months ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 
 #### 💬 Feedback
 
