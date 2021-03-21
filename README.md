@@ -4,11 +4,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🌱 My latest projects
 
+- [lukasmalkmus/homekit-ble-occupancy](https://github.com/lukasmalkmus/homekit-ble-occupancy) - Bluetooth Low Energy powered room occupation detection for HomeKit.
 - [lukasmalkmus/homebrew-tap](https://github.com/lukasmalkmus/homebrew-tap) - Collection of Homebrew formulas for my open source projects.
 - [lukasmalkmus/expensify-go](https://github.com/lukasmalkmus/expensify-go) - A very opinionated Expensify API client for Go.
 - [lukasmalkmus/swagger-issue](https://github.com/lukasmalkmus/swagger-issue) - 
 - [lukasmalkmus/horcrux](https://github.com/lukasmalkmus/horcrux) - A security question based secret sharing utility.
-- [lukasmalkmus/grpc-mp3-stream](https://github.com/lukasmalkmus/grpc-mp3-stream) - MP3 file streaming example using gRPC.
 
 #### 🔭 Latest releases I've contributed to
 
