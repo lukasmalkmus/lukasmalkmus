@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.0), today) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.5](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.5), today) - A push interface to Axiom via Loki endpoint.
 - [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.1.1](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.1.1), today) - A syslog push interface to Axiom.
 - [lukasmalkmus/homekit-ble-occupancy](https://github.com/lukasmalkmus/homekit-ble-occupancy) ([v0.1.0](https://github.com/lukasmalkmus/homekit-ble-occupancy/releases/tag/v0.1.0), today) - Bluetooth Low Energy powered room occupation detection for HomeKit.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.1.13](https://github.com/axiomhq/cli/releases/tag/v0.1.13), 3 days ago) - The power of Axiom on the command line.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 💬 Feedback
 
