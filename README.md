@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), today) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.8](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.8), 1 day ago) - A push interface to Axiom via Loki endpoint.
 - [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.1.4](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.1.4), 1 day ago) - A syslog push interface to Axiom.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.1.14](https://github.com/axiomhq/cli/releases/tag/v0.1.14), 1 day ago) - The power of Axiom on the command line.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [lukasmalkmus/homekit-ble-occupancy](https://github.com/lukasmalkmus/homekit-ble-occupancy) ([v0.1.0](https://github.com/lukasmalkmus/homekit-ble-occupancy/releases/tag/v0.1.0), 1 day ago) - Bluetooth Low Energy powered room occupation detection for HomeKit.
 
 #### 💬 Feedback
