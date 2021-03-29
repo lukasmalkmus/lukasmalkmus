@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.1.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.1.0), 2 days ago) - Axiom API Go bindings.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.8](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.8), 4 days ago) - A push interface to Axiom via Loki endpoint.
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.1.4](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.1.4), 4 days ago) - A syslog push interface to Axiom.
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.1.14](https://github.com/axiomhq/cli/releases/tag/v0.1.14), 4 days ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.1.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.1.0), 3 days ago) - Axiom API Go bindings.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.8](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.8), 5 days ago) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.1.4](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.1.4), 5 days ago) - A syslog push interface to Axiom.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.1.14](https://github.com/axiomhq/cli/releases/tag/v0.1.14), 5 days ago) - The power of Axiom on the command line.
 
 #### 💬 Feedback
 
