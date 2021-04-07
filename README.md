@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v2.5.2](https://github.com/golangci/golangci-lint-action/releases/tag/v2.5.2), 2 days ago) - Official GitHub action for golangci-lint from it&#39;s authors
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v2.5.2](https://github.com/golangci/golangci-lint-action/releases/tag/v2.5.2), 3 days ago) - Official GitHub action for golangci-lint from it&#39;s authors
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.0](https://github.com/axiomhq/cli/releases/tag/v0.2.0), 1 week ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.1.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.1.0), 1 week ago) - Axiom API Go bindings.
-- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.8](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.8), 1 week ago) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.8](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.8), 2 weeks ago) - A push interface to Axiom via Loki endpoint.
 
 #### 💬 Feedback
 
