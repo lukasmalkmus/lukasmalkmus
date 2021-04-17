@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.9](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.9), 3 days ago) - A push interface to Axiom via Loki endpoint.
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.2](https://github.com/axiomhq/cli/releases/tag/v0.2.2), 3 days ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.1.5](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.1.5), 3 days ago) - A syslog push interface to Axiom.
+- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.9](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.9), 4 days ago) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.2](https://github.com/axiomhq/cli/releases/tag/v0.2.2), 4 days ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.1.5](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.1.5), 4 days ago) - A syslog push interface to Axiom.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v2.5.2](https://github.com/golangci/golangci-lint-action/releases/tag/v2.5.2), 1 week ago) - Official GitHub action for golangci-lint from it&#39;s authors
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 
