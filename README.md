@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.3](https://github.com/axiomhq/cli/releases/tag/v0.2.3), today) - The power of Axiom on the command line.
 - [lukasmalkmus/cwa-qr](https://github.com/lukasmalkmus/cwa-qr) ([v0.2.0](https://github.com/lukasmalkmus/cwa-qr/releases/tag/v0.2.0), 1 day ago) - Generate QR-Codes for checking into events using the official Corona Warn App.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.9](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.9), 2 weeks ago) - A push interface to Axiom via Loki endpoint.
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.2](https://github.com/axiomhq/cli/releases/tag/v0.2.2), 2 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.1.5](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.1.5), 2 weeks ago) - A syslog push interface to Axiom.
 
 #### 💬 Feedback
