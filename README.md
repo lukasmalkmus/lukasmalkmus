@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.1.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.1.1), 5 days ago) - Axiom API Go bindings.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.1.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.1.1), 6 days ago) - Axiom API Go bindings.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.3](https://github.com/axiomhq/cli/releases/tag/v0.2.3), 1 week ago) - The power of Axiom on the command line.
 - [lukasmalkmus/cwa-qr](https://github.com/lukasmalkmus/cwa-qr) ([v0.2.0](https://github.com/lukasmalkmus/cwa-qr/releases/tag/v0.2.0), 1 week ago) - Generate QR-Codes for checking into events using the official Corona Warn App.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.9](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.9), 3 weeks ago) - A push interface to Axiom via Loki endpoint.
 
 #### 💬 Feedback
