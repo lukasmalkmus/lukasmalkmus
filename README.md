@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.4](https://github.com/axiomhq/cli/releases/tag/v0.2.4), 3 days ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.1.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.1.2), 3 days ago) - Axiom API Go bindings.
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 3 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.4](https://github.com/axiomhq/cli/releases/tag/v0.2.4), 4 days ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.1.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.1.2), 4 days ago) - Axiom API Go bindings.
+- [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 4 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [lukasmalkmus/cwa-qr](https://github.com/lukasmalkmus/cwa-qr) ([v0.2.0](https://github.com/lukasmalkmus/cwa-qr/releases/tag/v0.2.0), 3 weeks ago) - Generate QR-Codes for checking into events using the official Corona Warn App.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 4 weeks ago) - Deliver Go binaries as fast and easily as possible
 
