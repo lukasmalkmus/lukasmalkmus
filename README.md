@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.2.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.2.0), today) - Axiom API Go bindings.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), today) - Deliver Go binaries as fast and easily as possible
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.2.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.2.0), 1 day ago) - Axiom API Go bindings.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [lukasmalkmus/icloud-go](https://github.com/lukasmalkmus/icloud-go) ([v0.1.0](https://github.com/lukasmalkmus/icloud-go/releases/tag/v0.1.0), 1 week ago) - Go client library for the CloudKit Web Services API.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.4](https://github.com/axiomhq/cli/releases/tag/v0.2.4), 2 weeks ago) - The power of Axiom on the command line.
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 2 weeks ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
