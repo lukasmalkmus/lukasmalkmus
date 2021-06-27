@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.5](https://github.com/axiomhq/cli/releases/tag/v0.2.5), 3 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.2.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.2.1), 3 weeks ago) - Axiom API Go bindings.
 - [lukasmalkmus/icloud-go](https://github.com/lukasmalkmus/icloud-go) ([v0.1.0](https://github.com/lukasmalkmus/icloud-go/releases/tag/v0.1.0), 1 month ago) - Go client library for the CloudKit Web Services API.
