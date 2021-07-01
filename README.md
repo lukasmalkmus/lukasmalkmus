@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.2.0](https://github.com/spf13/cobra/releases/tag/v1.2.0), today) - A Commander for modern Go CLI interactions
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.5](https://github.com/axiomhq/cli/releases/tag/v0.2.5), 4 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.2.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.2.1), 4 weeks ago) - Axiom API Go bindings.
 - [lukasmalkmus/icloud-go](https://github.com/lukasmalkmus/icloud-go) ([v0.1.0](https://github.com/lukasmalkmus/icloud-go/releases/tag/v0.1.0), 1 month ago) - Go client library for the CloudKit Web Services API.
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 1 month ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 
 #### 💬 Feedback
 
