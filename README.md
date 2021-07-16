@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.2.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.2.2), 1 day ago) - Axiom API Go bindings.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.2.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.2.2), 2 days ago) - Axiom API Go bindings.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [spf13/cobra](https://github.com/spf13/cobra) ([v1.2.1](https://github.com/spf13/cobra/releases/tag/v1.2.1), 1 week ago) - A Commander for modern Go CLI interactions
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.2.1](https://github.com/spf13/cobra/releases/tag/v1.2.1), 2 weeks ago) - A Commander for modern Go CLI interactions
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.5](https://github.com/axiomhq/cli/releases/tag/v0.2.5), 1 month ago) - The power of Axiom on the command line.
 - [lukasmalkmus/icloud-go](https://github.com/lukasmalkmus/icloud-go) ([v0.1.0](https://github.com/lukasmalkmus/icloud-go/releases/tag/v0.1.0), 1 month ago) - Go client library for the CloudKit Web Services API.
 
