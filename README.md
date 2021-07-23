@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.1.1](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.1.1), 1 day ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
-- [axiomhq/logmanager](https://github.com/axiomhq/logmanager) ([v1.0.6](https://github.com/axiomhq/logmanager/releases/tag/v1.0.6), 1 day ago) - Yet another Go logging library.
-- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.10](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.10), 3 days ago) - A push interface to Axiom via Loki endpoint.
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.1.6](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.1.6), 3 days ago) - A syslog push interface to Axiom.
+- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.1.1](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.1.1), 2 days ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
+- [axiomhq/logmanager](https://github.com/axiomhq/logmanager) ([v1.0.6](https://github.com/axiomhq/logmanager/releases/tag/v1.0.6), 2 days ago) - Yet another Go logging library.
+- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.10](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.10), 4 days ago) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.1.6](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.1.6), 4 days ago) - A syslog push interface to Axiom.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.2.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.2.2), 1 week ago) - Axiom API Go bindings.
 
 #### 💬 Feedback
