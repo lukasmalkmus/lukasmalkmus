@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.2.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.2.0), today) - A log forwarder/multiplexer for Axiom and Honeycomb.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.6](https://github.com/axiomhq/cli/releases/tag/v0.2.6), 6 days ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.1.1](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.1.1), 1 week ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
 - [axiomhq/logmanager](https://github.com/axiomhq/logmanager) ([v1.0.6](https://github.com/axiomhq/logmanager/releases/tag/v1.0.6), 1 week ago) - Yet another Go logging library.
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.10](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.10), 2 weeks ago) - A push interface to Axiom via Loki endpoint.
 
