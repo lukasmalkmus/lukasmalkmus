@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.2.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.2.0), 1 day ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.2.6](https://github.com/axiomhq/cli/releases/tag/v0.2.6), 1 week ago) - The power of Axiom on the command line.
-- [axiomhq/logmanager](https://github.com/axiomhq/logmanager) ([v1.0.6](https://github.com/axiomhq/logmanager/releases/tag/v1.0.6), 2 weeks ago) - Yet another Go logging library.
-- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.1.10](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.1.10), 2 weeks ago) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.3.0](https://github.com/axiomhq/cli/releases/tag/v0.3.0), today) - The power of Axiom on the command line.
+- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.2.0](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.2.0), today) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.2.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.2.0), today) - A syslog push interface to Axiom.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.3.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.3.0), today) - Axiom API Go bindings.
+- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.3.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.3.0), today) - A log forwarder/multiplexer for Axiom and Honeycomb.
 
 #### 💬 Feedback
 
