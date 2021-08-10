@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [lukasmalkmus/horcrux](https://github.com/lukasmalkmus/horcrux) ([v0.2.0](https://github.com/lukasmalkmus/horcrux/releases/tag/v0.2.0), 1 day ago) - A security question based secret sharing utility.
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.3.0](https://github.com/axiomhq/cli/releases/tag/v0.3.0), 5 days ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.2.0](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.2.0), 5 days ago) - A push interface to Axiom via Loki endpoint.
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.2.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.2.0), 5 days ago) - A syslog push interface to Axiom.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.3.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.3.0), 5 days ago) - Axiom API Go bindings.
+- [lukasmalkmus/horcrux](https://github.com/lukasmalkmus/horcrux) ([v0.2.0](https://github.com/lukasmalkmus/horcrux/releases/tag/v0.2.0), 2 days ago) - A security question based secret sharing utility.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.3.0](https://github.com/axiomhq/cli/releases/tag/v0.3.0), 6 days ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.2.0](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.2.0), 6 days ago) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.2.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.2.0), 6 days ago) - A syslog push interface to Axiom.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.3.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.3.0), 6 days ago) - Axiom API Go bindings.
 
 #### 💬 Feedback
 
