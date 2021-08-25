@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.4.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.4.0), today) - Axiom API Go bindings.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), today) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.3.1](https://github.com/axiomhq/cli/releases/tag/v0.3.1), 1 day ago) - The power of Axiom on the command line.
 - [bahlo/ing-ynab](https://github.com/bahlo/ing-ynab) ([v2.0.1](https://github.com/bahlo/ing-ynab/releases/tag/v2.0.1), 1 day ago) - 💰 Import your ING Germany bank statements via FinTS into YNAB.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.3.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.3.1), 1 week ago) - Axiom API Go bindings.
 - [lukasmalkmus/horcrux](https://github.com/lukasmalkmus/horcrux) ([v0.2.0](https://github.com/lukasmalkmus/horcrux/releases/tag/v0.2.0), 2 weeks ago) - A security question based secret sharing utility.
 
 #### 💬 Feedback
