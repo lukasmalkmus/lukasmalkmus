@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.3.0](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.3.0), today) - A push interface to Axiom via Loki endpoint.
 - [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.3.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.3.0), today) - A syslog push interface to Axiom.
 - [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.4.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.4.0), today) - A log forwarder/multiplexer for Axiom and Honeycomb.
 - [axiomhq/pkg](https://github.com/axiomhq/pkg) ([v0.1.0](https://github.com/axiomhq/pkg/releases/tag/v0.1.0), today) - Commonly used Go packages for Axiom projects.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.6.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.6.0), today) - Axiom API Go bindings.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 💬 Feedback
 
