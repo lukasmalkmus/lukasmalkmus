@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.7.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.7.0), 1 week ago) - A Raspberry Pi CPU temperature exporter.
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.3.0](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.3.0), 1 week ago) - A push interface to Axiom via Loki endpoint.
 - [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.3.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.3.0), 1 week ago) - A syslog push interface to Axiom.
