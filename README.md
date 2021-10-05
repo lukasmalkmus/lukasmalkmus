@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.4.2](https://github.com/axiomhq/cli/releases/tag/v0.4.2), 4 days ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.6.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.6.2), 5 days ago) - Axiom API Go bindings.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.4.2](https://github.com/axiomhq/cli/releases/tag/v0.4.2), 5 days ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.6.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.6.2), 6 days ago) - Axiom API Go bindings.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.7.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.7.0), 3 weeks ago) - A Raspberry Pi CPU temperature exporter.
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.3.0](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.3.0), 3 weeks ago) - A push interface to Axiom via Loki endpoint.
 
