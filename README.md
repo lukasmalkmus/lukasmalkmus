@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.3.0](https://github.com/hibiken/asynqmon/releases/tag/v0.3.0), today) - Real-time monitor and web admin for Asynq distributed task queue
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.4.0](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.4.0), 6 days ago) - A push interface to Axiom via Loki endpoint.
 - [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.4.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.4.0), 6 days ago) - A syslog push interface to Axiom.
 - [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.5.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.5.0), 6 days ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
-- [axiomhq/pkg](https://github.com/axiomhq/pkg) ([v0.2.0](https://github.com/axiomhq/pkg/releases/tag/v0.2.0), 6 days ago) - Commonly used Go packages for Axiom projects.
 
 #### 💬 Feedback
 
