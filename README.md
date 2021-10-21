@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/welford](https://github.com/axiomhq/welford) ([v0.1.0](https://github.com/axiomhq/welford/releases/tag/v0.1.0), today) - Go implementation Welford’s method for one-pass variance computation
 - [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.6.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.6.0), 1 week ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.3.0](https://github.com/hibiken/asynqmon/releases/tag/v0.3.0), 1 week ago) - Real-time monitor and web admin for Asynq distributed task queue
 - [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.4.0](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.4.0), 2 weeks ago) - A push interface to Axiom via Loki endpoint.
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.4.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.4.0), 2 weeks ago) - A syslog push interface to Axiom.
 
 #### 💬 Feedback
 
