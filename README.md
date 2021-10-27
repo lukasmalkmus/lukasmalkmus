@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.2.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.2.0), 1 day ago) - Axiom API NodeJS bindings.
-- [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.3.2](https://github.com/hibiken/asynqmon/releases/tag/v0.3.2), 4 days ago) - Real-time monitor and web admin for Asynq distributed task queue
-- [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.1.1](https://github.com/axiomhq/variance/releases/tag/v0.1.1), 4 days ago) - Go implementation Welford’s method for one-pass variance computation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.2.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.2.0), 2 days ago) - Axiom API NodeJS bindings.
+- [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.3.2](https://github.com/hibiken/asynqmon/releases/tag/v0.3.2), 5 days ago) - Real-time monitor and web admin for Asynq distributed task queue
+- [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.1.1](https://github.com/axiomhq/variance/releases/tag/v0.1.1), 5 days ago) - Go implementation Welford’s method for one-pass variance computation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.6.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.6.0), 1 week ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
 
 #### 💬 Feedback
