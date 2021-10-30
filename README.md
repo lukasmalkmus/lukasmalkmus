@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.2.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.2.0), 4 days ago) - Axiom API NodeJS bindings.
+- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.2.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.2.0), 5 days ago) - Axiom API NodeJS bindings.
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.3.2](https://github.com/hibiken/asynqmon/releases/tag/v0.3.2), 1 week ago) - Real-time monitor and web admin for Asynq distributed task queue
 - [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.1.1](https://github.com/axiomhq/variance/releases/tag/v0.1.1), 1 week ago) - Go implementation Welford’s method for one-pass variance computation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
