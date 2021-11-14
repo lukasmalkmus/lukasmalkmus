@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.7.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.7.1), 2 days ago) - Axiom API Go bindings.
-- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.6.3](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.6.3), 2 days ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
-- [axiomhq/pkg](https://github.com/axiomhq/pkg) ([v0.3.0](https://github.com/axiomhq/pkg/releases/tag/v0.3.0), 2 days ago) - Commonly used Go packages for Axiom projects.
-- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.4.1](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.4.1), 5 days ago) - A push interface to Axiom via Loki endpoint.
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.4.1](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.4.1), 5 days ago) - A syslog push interface to Axiom.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.7.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.7.1), 3 days ago) - Axiom API Go bindings.
+- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.6.3](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.6.3), 3 days ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
+- [axiomhq/pkg](https://github.com/axiomhq/pkg) ([v0.3.0](https://github.com/axiomhq/pkg/releases/tag/v0.3.0), 3 days ago) - Commonly used Go packages for Axiom projects.
+- [axiomhq/axiom-loki-proxy](https://github.com/axiomhq/axiom-loki-proxy) ([v0.4.1](https://github.com/axiomhq/axiom-loki-proxy/releases/tag/v0.4.1), 6 days ago) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.4.1](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.4.1), 6 days ago) - A syslog push interface to Axiom.
 
 #### 💬 Feedback
 
