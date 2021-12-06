@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/setup-axiom](https://github.com/axiomhq/setup-axiom) ([v1](https://github.com/axiomhq/setup-axiom/releases/tag/v1), 4 days ago) - Set up a local Axiom stack for testing your integration.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.8.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.8.2), 5 days ago) - Axiom API Go bindings.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.4.4](https://github.com/axiomhq/cli/releases/tag/v0.4.4), 2 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.6.3](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.6.3), 3 weeks ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
-- [axiomhq/pkg](https://github.com/axiomhq/pkg) ([v0.3.0](https://github.com/axiomhq/pkg/releases/tag/v0.3.0), 3 weeks ago) - Commonly used Go packages for Axiom projects.
 
 #### 💬 Feedback
 
