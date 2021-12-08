@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-py](https://github.com/axiomhq/axiom-py) ([v0.1.0-beta.3](https://github.com/axiomhq/axiom-py/releases/tag/v0.1.0-beta.3), today) - Axiom API Python bindings.
 - [axiomhq/setup-axiom](https://github.com/axiomhq/setup-axiom) ([v1](https://github.com/axiomhq/setup-axiom/releases/tag/v1), 6 days ago) - Set up a local Axiom stack for testing your integration.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.8.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.8.2), 1 week ago) - Axiom API Go bindings.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.4.4](https://github.com/axiomhq/cli/releases/tag/v0.4.4), 3 weeks ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.6.3](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.6.3), 3 weeks ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
 
 #### 💬 Feedback
 
