@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 3 days ago) - A Commander for modern Go CLI interactions
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 4 days ago) - A Commander for modern Go CLI interactions
 - [axiomhq/setup-axiom](https://github.com/axiomhq/setup-axiom) ([v1](https://github.com/axiomhq/setup-axiom/releases/tag/v1), 2 weeks ago) - Set up a local Axiom stack for testing your integration.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.8.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.8.2), 2 weeks ago) - Axiom API Go bindings.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
