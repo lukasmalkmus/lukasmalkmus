@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.1), today) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-multiplexer](https://github.com/axiomhq/axiom-loki-multiplexer) ([v0.4.2](https://github.com/axiomhq/axiom-loki-multiplexer/releases/tag/v0.4.2), 2 days ago) - A push interface to Axiom via Loki endpoint.
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.5.0](https://github.com/hibiken/asynqmon/releases/tag/v0.5.0), 2 days ago) - Real-time monitor and web admin for Asynq distributed task queue
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 1 week ago) - A Commander for modern Go CLI interactions
 - [axiomhq/setup-axiom](https://github.com/axiomhq/setup-axiom) ([v1](https://github.com/axiomhq/setup-axiom/releases/tag/v1), 2 weeks ago) - Set up a local Axiom stack for testing your integration.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.8.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.8.2), 3 weeks ago) - Axiom API Go bindings.
 
 #### 💬 Feedback
 
