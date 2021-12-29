@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.3), today) - Deliver Go binaries as fast and easily as possible
 - [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.8.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.8.0), 6 days ago) - A Raspberry Pi CPU temperature exporter.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-multiplexer](https://github.com/axiomhq/axiom-loki-multiplexer) ([v0.4.2](https://github.com/axiomhq/axiom-loki-multiplexer/releases/tag/v0.4.2), 1 week ago) - A push interface to Axiom via Loki endpoint.
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.5.0](https://github.com/hibiken/asynqmon/releases/tag/v0.5.0), 1 week ago) - Real-time monitor and web admin for Asynq distributed task queue
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 2 weeks ago) - A Commander for modern Go CLI interactions
