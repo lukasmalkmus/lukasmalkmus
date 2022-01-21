@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-multiplexer](https://github.com/axiomhq/axiom-loki-multiplexer) ([v0.5.0](https://github.com/axiomhq/axiom-loki-multiplexer/releases/tag/v0.5.0), 2 weeks ago) - A push interface to Axiom via Loki endpoint.
 - [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.8.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.8.0), 4 weeks ago) - A Raspberry Pi CPU temperature exporter.
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.5.0](https://github.com/hibiken/asynqmon/releases/tag/v0.5.0), 1 month ago) - Real-time monitor and web admin for Asynq distributed task queue
