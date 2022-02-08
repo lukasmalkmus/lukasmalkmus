@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [bahlo/generic-list-go](https://github.com/bahlo/generic-list-go) ([v0.1.0](https://github.com/bahlo/generic-list-go/releases/tag/v0.1.0), 2 days ago) - Go container/list but with generics
+- [bahlo/generic-list-go](https://github.com/bahlo/generic-list-go) ([v0.2.0](https://github.com/bahlo/generic-list-go/releases/tag/v0.2.0), today) - Go container/list but with generics
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-multiplexer](https://github.com/axiomhq/axiom-loki-multiplexer) ([v0.5.0](https://github.com/axiomhq/axiom-loki-multiplexer/releases/tag/v0.5.0), 1 month ago) - A push interface to Axiom via Loki endpoint.
 - [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.8.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.8.0), 1 month ago) - A Raspberry Pi CPU temperature exporter.
