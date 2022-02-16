@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.9.0-rc.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.9.0-rc.1), today) - Axiom API Go bindings.
-- [axiomhq/axiom-loki-multiplexer](https://github.com/axiomhq/axiom-loki-multiplexer) ([v0.6.0](https://github.com/axiomhq/axiom-loki-multiplexer/releases/tag/v0.6.0), today) - A push interface to Axiom via Loki endpoint.
-- [axiomhq/axiom-segment-webhook](https://github.com/axiomhq/axiom-segment-webhook) ([v0.1.0](https://github.com/axiomhq/axiom-segment-webhook/releases/tag/v0.1.0), today) - A Segment webhook for sending data to Axiom.
-- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.4.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.4.0), today) - Axiom API NodeJS bindings.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.9.0-rc.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.9.0-rc.1), 1 day ago) - Axiom API Go bindings.
+- [axiomhq/axiom-loki-multiplexer](https://github.com/axiomhq/axiom-loki-multiplexer) ([v0.6.0](https://github.com/axiomhq/axiom-loki-multiplexer/releases/tag/v0.6.0), 1 day ago) - A push interface to Axiom via Loki endpoint.
+- [axiomhq/axiom-segment-webhook](https://github.com/axiomhq/axiom-segment-webhook) ([v0.1.0](https://github.com/axiomhq/axiom-segment-webhook/releases/tag/v0.1.0), 1 day ago) - A Segment webhook for sending data to Axiom.
+- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.4.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.4.0), 1 day ago) - Axiom API NodeJS bindings.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 💬 Feedback
 
