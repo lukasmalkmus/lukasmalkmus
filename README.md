@@ -4,11 +4,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🌱 My latest projects
 
+- [lukasmalkmus/go-talks](https://github.com/lukasmalkmus/go-talks) - A collection of Go related talks.
 - [lukasmalkmus/icloud-go](https://github.com/lukasmalkmus/icloud-go) - Go client library for the CloudKit Web Services API.
 - [lukasmalkmus/cwa-qr](https://github.com/lukasmalkmus/cwa-qr) - Generate QR-Codes for checking into events using the official Corona Warn App.
 - [lukasmalkmus/homekit-ble-occupancy](https://github.com/lukasmalkmus/homekit-ble-occupancy) - Bluetooth Low Energy powered room occupation detection for HomeKit.
 - [lukasmalkmus/homebrew-tap](https://github.com/lukasmalkmus/homebrew-tap) - Collection of Homebrew formulas for my open source projects.
-- [lukasmalkmus/expensify-go](https://github.com/lukasmalkmus/expensify-go) - A very opinionated Expensify API client for Go.
 
 #### 🔭 Latest releases I've contributed to
 
