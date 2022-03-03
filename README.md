@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.6.0](https://github.com/hibiken/asynqmon/releases/tag/v0.6.0), today) - Real-time monitor and web admin for Asynq distributed task queue
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.5.0](https://github.com/axiomhq/cli/releases/tag/v0.5.0), 1 week ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.9.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.9.0), 1 week ago) - Axiom API Go bindings.
+- [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.6.0](https://github.com/hibiken/asynqmon/releases/tag/v0.6.0), 1 day ago) - Real-time monitor and web admin for Asynq distributed task queue
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.5.0](https://github.com/axiomhq/cli/releases/tag/v0.5.0), 2 weeks ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.9.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.9.0), 2 weeks ago) - Axiom API Go bindings.
 - [axiomhq/axiom-loki-multiplexer](https://github.com/axiomhq/axiom-loki-multiplexer) ([v0.6.0](https://github.com/axiomhq/axiom-loki-multiplexer/releases/tag/v0.6.0), 2 weeks ago) - A push interface to Axiom via Loki endpoint.
 - [axiomhq/axiom-segment-webhook](https://github.com/axiomhq/axiom-segment-webhook) ([v0.1.0](https://github.com/axiomhq/axiom-segment-webhook/releases/tag/v0.1.0), 2 weeks ago) - A Segment webhook for sending data to Axiom.
 
