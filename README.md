@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), today) - Deliver Go binaries as fast and easily as possible
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.6.0](https://github.com/hibiken/asynqmon/releases/tag/v0.6.0), 4 days ago) - Web UI for Asynq task queue
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.5.0](https://github.com/axiomhq/cli/releases/tag/v0.5.0), 2 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.9.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.9.0), 2 weeks ago) - Axiom API Go bindings.
