@@ -16,7 +16,7 @@ It's me, Lukas. Software developer by day and night.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.6.1](https://github.com/hibiken/asynqmon/releases/tag/v0.6.1), 2 weeks ago) - Web UI for Asynq task queue
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.4.0](https://github.com/spf13/cobra/releases/tag/v1.4.0), 3 weeks ago) - A Commander for modern Go CLI interactions
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.5.1](https://github.com/axiomhq/cli/releases/tag/v0.5.1), 3 weeks ago) - The power of Axiom on the command line.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.5.1](https://github.com/axiomhq/cli/releases/tag/v0.5.1), 4 weeks ago) - The power of Axiom on the command line.
 
 #### 💬 Feedback
 
