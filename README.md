@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.6.0](https://github.com/axiomhq/cli/releases/tag/v0.6.0), 5 days ago) - The power of Axiom on the command line.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.6.0](https://github.com/axiomhq/cli/releases/tag/v0.6.0), 6 days ago) - The power of Axiom on the command line.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.7.0](https://github.com/hibiken/asynqmon/releases/tag/v0.7.0), 2 weeks ago) - Web UI for Asynq task queue
+- [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.7.0](https://github.com/hibiken/asynqmon/releases/tag/v0.7.0), 3 weeks ago) - Web UI for Asynq task queue
 - [axiomhq/axiom-loki-multiplexer](https://github.com/axiomhq/axiom-loki-multiplexer) ([v0.6.1](https://github.com/axiomhq/axiom-loki-multiplexer/releases/tag/v0.6.1), 1 month ago) - A push interface to Axiom via Loki endpoint.
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.4.0](https://github.com/spf13/cobra/releases/tag/v1.4.0), 1 month ago) - A Commander for modern Go CLI interactions
 
