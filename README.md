@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.10.0-rc.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.10.0-rc.1), today) - Axiom API Go bindings.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.10.0-rc.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.10.0-rc.1), 1 day ago) - Axiom API Go bindings.
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.7.1](https://github.com/hibiken/asynqmon/releases/tag/v0.7.1), 1 week ago) - Web UI for Asynq task queue
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.6.0](https://github.com/axiomhq/cli/releases/tag/v0.6.0), 2 weeks ago) - The power of Axiom on the command line.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.6.0](https://github.com/axiomhq/cli/releases/tag/v0.6.0), 3 weeks ago) - The power of Axiom on the command line.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 4 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [axiomhq/axiom-loki-multiplexer](https://github.com/axiomhq/axiom-loki-multiplexer) ([v0.6.1](https://github.com/axiomhq/axiom-loki-multiplexer/releases/tag/v0.6.1), 1 month ago) - A push interface to Axiom via Loki endpoint.
 
 #### 💬 Feedback
