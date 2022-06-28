@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-cloudwatch-lambda](https://github.com/axiomhq/axiom-cloudwatch-lambda) ([v0.3.0b8](https://github.com/axiomhq/axiom-cloudwatch-lambda/releases/tag/v0.3.0b8), 5 days ago) - Ingest CloudWatch Logs into Axiom.
+- [axiomhq/axiom-cloudwatch-lambda](https://github.com/axiomhq/axiom-cloudwatch-lambda) ([v0.3.0b8](https://github.com/axiomhq/axiom-cloudwatch-lambda/releases/tag/v0.3.0b8), 6 days ago) - Ingest CloudWatch Logs into Axiom.
 - [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.5.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.5.0), 1 week ago) - Axiom API NodeJS bindings.
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.7.0](https://github.com/axiomhq/cli/releases/tag/v0.7.0), 3 weeks ago) - The power of Axiom on the command line.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.7.0](https://github.com/axiomhq/cli/releases/tag/v0.7.0), 4 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.10.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.10.0), 4 weeks ago) - Axiom API Go bindings.
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) ([v0.7.1](https://github.com/hibiken/asynqmon/releases/tag/v0.7.1), 1 month ago) - Web UI for Asynq task queue
 
