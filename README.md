@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.13.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.13.0), 3 days ago) - Send Web-Vitals from Vercel to Axiom.
+- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.13.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.13.0), 4 days ago) - Send Web-Vitals from Vercel to Axiom.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.8.0](https://github.com/axiomhq/cli/releases/tag/v0.8.0), 1 month ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.11.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.11.0), 1 month ago) - Axiom API Go bindings.
 - [axiomhq/axiom-cloudwatch-lambda](https://github.com/axiomhq/axiom-cloudwatch-lambda) ([v0.3.0b8](https://github.com/axiomhq/axiom-cloudwatch-lambda/releases/tag/v0.3.0b8), 1 month ago) - Ingest CloudWatch Logs into Axiom.
