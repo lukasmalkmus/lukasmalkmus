@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.6.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.6.0), today) - Axiom API NodeJS bindings.
-- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.14.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.14.0), 4 days ago) - Send Web-Vitals from Vercel to Axiom.
+- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.6.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.6.0), 1 day ago) - Axiom API NodeJS bindings.
+- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.14.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.14.0), 5 days ago) - Send Web-Vitals from Vercel to Axiom.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.12.0-rc.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.12.0-rc.1), 2 weeks ago) - Axiom API Go bindings.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.8.0](https://github.com/axiomhq/cli/releases/tag/v0.8.0), 1 month ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-cloudwatch-lambda](https://github.com/axiomhq/axiom-cloudwatch-lambda) ([v0.3.0b8](https://github.com/axiomhq/axiom-cloudwatch-lambda/releases/tag/v0.3.0b8), 2 months ago) - Ingest CloudWatch Logs into Axiom.
