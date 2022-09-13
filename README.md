@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.12.0-rc.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.12.0-rc.2), 6 days ago) - Axiom API Go bindings.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.12.0-rc.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.12.0-rc.2), 1 week ago) - Axiom API Go bindings.
 - [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.6.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.6.0), 1 week ago) - Axiom API NodeJS bindings.
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.14.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.14.0), 1 week ago) - Send Web-Vitals from Vercel to Axiom.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.8.0](https://github.com/axiomhq/cli/releases/tag/v0.8.0), 1 month ago) - The power of Axiom on the command line.
