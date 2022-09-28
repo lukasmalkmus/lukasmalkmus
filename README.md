@@ -13,10 +13,10 @@ It's me, Lukas. Software developer by day and night.
 #### 🔭 Latest releases I've contributed to
 
 - [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.8.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.8.0), 6 days ago) - Axiom API NodeJS bindings.
+- [axiomhq/prisma-axiom](https://github.com/axiomhq/prisma-axiom) ([v0.1.1](https://github.com/axiomhq/prisma-axiom/releases/tag/v0.1.1), 6 days ago) - Axiom observability middleware for Prisma
 - [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.5.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.5.0), 1 week ago) - Axiom Rust bindings
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.12.0-rc.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.12.0-rc.2), 3 weeks ago) - Axiom API Go bindings.
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.14.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.14.0), 3 weeks ago) - Send Web-Vitals from Vercel to Axiom.
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.8.0](https://github.com/axiomhq/cli/releases/tag/v0.8.0), 2 months ago) - The power of Axiom on the command line.
 
 #### 💬 Feedback
 
