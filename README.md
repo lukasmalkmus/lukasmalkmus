@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.9.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.9.0), today) - The official NodeJS bindings for the Axiom API
 - [axiomhq/prisma-axiom](https://github.com/axiomhq/prisma-axiom) ([v0.2.1](https://github.com/axiomhq/prisma-axiom/releases/tag/v0.2.1), 3 weeks ago) - Axiom observability for Prisma
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.0-rc.1](https://github.com/axiomhq/cli/releases/tag/v0.9.0-rc.1), 3 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.12.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.12.0), 3 weeks ago) - Official Go bindings for the Axiom API
-- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.8.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.8.0), 1 month ago) - The official NodeJS bindings for the Axiom API
 - [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.5.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.5.0), 1 month ago) - Official Rust bindings for the Axiom API
 
 #### 💬 Feedback
