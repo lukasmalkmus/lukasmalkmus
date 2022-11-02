@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.15.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.15.0), 6 days ago) - Send Web-Vitals from Vercel to Axiom.
-- [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.6.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.6.0), 6 days ago) - Official Rust bindings for the Axiom API
+- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.15.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.15.0), 1 week ago) - Send Web-Vitals from Vercel to Axiom.
+- [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.6.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.6.0), 1 week ago) - Official Rust bindings for the Axiom API
 - [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.9.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.9.0), 1 week ago) - The official NodeJS bindings for the Axiom API
 - [axiomhq/prisma-axiom](https://github.com/axiomhq/prisma-axiom) ([v0.2.1](https://github.com/axiomhq/prisma-axiom/releases/tag/v0.2.1), 1 month ago) - Axiom observability for Prisma
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.0-rc.1](https://github.com/axiomhq/cli/releases/tag/v0.9.0-rc.1), 1 month ago) - The power of Axiom on the command line.
