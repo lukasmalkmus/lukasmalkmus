@@ -29,7 +29,7 @@ ticket, I don't bite and will try my best to help!
 I try to be **@lukasmalkmus** everywhere:
 
 - 🐦: https://twitter.com/lukasmalkmus
-- 🌐: https://lukasmalkmus.io
+- 🌐: https://lukasmalkmus.com
 
 ---
 
