@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.0-rc.2](https://github.com/axiomhq/cli/releases/tag/v0.9.0-rc.2), today) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.13.4](https://github.com/axiomhq/axiom-go/releases/tag/v0.13.4), 2 days ago) - Official Go bindings for the Axiom API
 - [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.10.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.10.0), 1 week ago) - The official NodeJS bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.15.1](https://github.com/axiomhq/next-axiom/releases/tag/v0.15.1), 2 weeks ago) - The official Next.js library for Axiom.
 - [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.6.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.6.0), 4 weeks ago) - Official Rust bindings for the Axiom API
-- [axiomhq/prisma-axiom](https://github.com/axiomhq/prisma-axiom) ([v0.2.1](https://github.com/axiomhq/prisma-axiom/releases/tag/v0.2.1), 1 month ago) - Axiom observability for Prisma
 
 #### 💬 Feedback
 
