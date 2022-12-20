@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.10.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.10.0), today) - A prometheus exporter for the Tankerkoenig API (gas prices).
+- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.11.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.11.0), today) - A prometheus exporter for the Tankerkoenig API (gas prices).
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.0-rc.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.0-rc.1), 5 days ago) - Official Go bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.16.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.16.0), 2 weeks ago) - The official Next.js library for Axiom.
 - [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.7.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.7.0), 3 weeks ago) - Official Rust bindings for the Axiom API
