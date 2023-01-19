@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [rogchap/v8go](https://github.com/rogchap/v8go) ([v0.8.0](https://github.com/rogchap/v8go/releases/tag/v0.8.0), today) - Execute JavaScript from Go
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.0-rc.3](https://github.com/axiomhq/cli/releases/tag/v0.9.0-rc.3), 2 weeks ago) - The power of Axiom on the command line.
 - [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.11.1](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.11.1), 1 month ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.0-rc.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.0-rc.1), 1 month ago) - Official Go bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.16.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.16.0), 1 month ago) - The official Next.js library for Axiom.
-- [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.7.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.7.0), 1 month ago) - Official Rust bindings for the Axiom API
 
 #### 💬 Feedback
 
