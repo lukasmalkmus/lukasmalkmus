@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [rogchap/v8go](https://github.com/rogchap/v8go) ([v0.8.0](https://github.com/rogchap/v8go/releases/tag/v0.8.0), 2 days ago) - Execute JavaScript from Go
+- [rogchap/v8go](https://github.com/rogchap/v8go) ([v0.8.0](https://github.com/rogchap/v8go/releases/tag/v0.8.0), 3 days ago) - Execute JavaScript from Go
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.0-rc.3](https://github.com/axiomhq/cli/releases/tag/v0.9.0-rc.3), 2 weeks ago) - The power of Axiom on the command line.
 - [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.11.1](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.11.1), 1 month ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.0-rc.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.0-rc.1), 1 month ago) - Official Go bindings for the Axiom API
