@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.0](https://github.com/axiomhq/cli/releases/tag/v0.9.0), 1 day ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.0), 1 day ago) - Official Go bindings for the Axiom API
-- [rogchap/v8go](https://github.com/rogchap/v8go) ([v0.8.0](https://github.com/rogchap/v8go/releases/tag/v0.8.0), 6 days ago) - Execute JavaScript from Go
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.0](https://github.com/axiomhq/cli/releases/tag/v0.9.0), 2 days ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.0), 2 days ago) - Official Go bindings for the Axiom API
+- [rogchap/v8go](https://github.com/rogchap/v8go) ([v0.8.0](https://github.com/rogchap/v8go/releases/tag/v0.8.0), 1 week ago) - Execute JavaScript from Go
 - [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.11.1](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.11.1), 1 month ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.16.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.16.0), 1 month ago) - The official Next.js library for Axiom.
 
