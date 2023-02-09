@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.8.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.8.0), 1 week ago) - Official Rust bindings for the Axiom API
-- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.11.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.11.0), 1 week ago) - The official NodeJS bindings for the Axiom API
+- [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.8.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.8.0), 2 weeks ago) - Official Rust bindings for the Axiom API
+- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.11.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.11.0), 2 weeks ago) - The official NodeJS bindings for the Axiom API
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.0](https://github.com/axiomhq/cli/releases/tag/v0.9.0), 2 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.0), 2 weeks ago) - Official Go bindings for the Axiom API
-- [rogchap/v8go](https://github.com/rogchap/v8go) ([v0.8.0](https://github.com/rogchap/v8go/releases/tag/v0.8.0), 2 weeks ago) - Execute JavaScript from Go
+- [rogchap/v8go](https://github.com/rogchap/v8go) ([v0.8.0](https://github.com/rogchap/v8go/releases/tag/v0.8.0), 3 weeks ago) - Execute JavaScript from Go
 
 #### 💬 Feedback
 
