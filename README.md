@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.17.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.17.0), 5 days ago) - The official Next.js library for Axiom.
-- [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.8.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.8.0), 2 weeks ago) - Official Rust bindings for the Axiom API
-- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.11.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.11.0), 2 weeks ago) - The official NodeJS bindings for the Axiom API
+- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.17.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.17.0), 6 days ago) - The official Next.js library for Axiom.
+- [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.8.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.8.0), 3 weeks ago) - Official Rust bindings for the Axiom API
+- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.11.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.11.0), 3 weeks ago) - The official NodeJS bindings for the Axiom API
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.0](https://github.com/axiomhq/cli/releases/tag/v0.9.0), 3 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.0), 3 weeks ago) - Official Go bindings for the Axiom API
 
