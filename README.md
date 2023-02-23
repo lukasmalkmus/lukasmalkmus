@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.7.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.7.0), today) - A log forwarder/multiplexer for Axiom and Honeycomb.
 - [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.2.0](https://github.com/axiomhq/variance/releases/tag/v0.2.0), today) - Go implementation of variance&#39;s method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.2), 2 days ago) - Official Go bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.17.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.17.0), 1 week ago) - The official Next.js library for Axiom.
 - [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.8.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.8.0), 4 weeks ago) - Official Rust bindings for the Axiom API
-- [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.11.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.11.0), 4 weeks ago) - The official NodeJS bindings for the Axiom API
 
 #### 💬 Feedback
 
