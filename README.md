@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.1](https://github.com/axiomhq/cli/releases/tag/v0.9.1), 1 day ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.7.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.7.0), 5 days ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
-- [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.2.0](https://github.com/axiomhq/variance/releases/tag/v0.2.0), 5 days ago) - Go implementation of variance&#39;s method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.1](https://github.com/axiomhq/cli/releases/tag/v0.9.1), 2 days ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.7.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.7.0), 6 days ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
+- [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.2.0](https://github.com/axiomhq/variance/releases/tag/v0.2.0), 6 days ago) - Go implementation of variance&#39;s method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.2), 1 week ago) - Official Go bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.17.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.17.0), 2 weeks ago) - The official Next.js library for Axiom.
 
