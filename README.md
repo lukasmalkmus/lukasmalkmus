@@ -16,7 +16,7 @@ It's me, Lukas. Software developer by day and night.
 - [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v3](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v3), 1 week ago) - Ingest logs and platform events from your lambda functions
 - [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.7.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.7.0), 1 week ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
 - [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.2.0](https://github.com/axiomhq/variance/releases/tag/v0.2.0), 1 week ago) - Go implementation of variance&#39;s method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.2), 1 week ago) - Official Go bindings for the Axiom API
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.14.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.14.2), 2 weeks ago) - Official Go bindings for the Axiom API
 
 #### 💬 Feedback
 
