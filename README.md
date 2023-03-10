@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v4](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v4), today) - Ingest logs and platform events from your lambda functions
+- [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v4](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v4), 1 day ago) - Ingest logs and platform events from your lambda functions
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.1](https://github.com/axiomhq/cli/releases/tag/v0.9.1), 1 week ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.7.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.7.0), 2 weeks ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
 - [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.2.0](https://github.com/axiomhq/variance/releases/tag/v0.2.0), 2 weeks ago) - Go implementation of variance&#39;s method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
