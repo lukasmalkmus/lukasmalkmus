@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [rogchap/v8go](https://github.com/rogchap/v8go) ([v0.9.0](https://github.com/rogchap/v8go/releases/tag/v0.9.0), 1 day ago) - Execute JavaScript from Go
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.15.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.15.0), 1 day ago) - Official Go bindings for the Axiom API
-- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.12.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.12.0), 4 days ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
+- [rogchap/v8go](https://github.com/rogchap/v8go) ([v0.9.0](https://github.com/rogchap/v8go/releases/tag/v0.9.0), 2 days ago) - Execute JavaScript from Go
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.15.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.15.0), 2 days ago) - Official Go bindings for the Axiom API
+- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.12.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.12.0), 5 days ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
 - [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v4](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v4), 1 week ago) - Ingest logs and platform events from your lambda functions
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.9.1](https://github.com/axiomhq/cli/releases/tag/v0.9.1), 3 weeks ago) - The power of Axiom on the command line.
 
