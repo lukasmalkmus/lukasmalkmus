@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.15.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.15.2), 6 days ago) - Official Go bindings for the Axiom API
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.15.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.15.2), 1 week ago) - Official Go bindings for the Axiom API
 - [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.12.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.12.0), 1 week ago) - The official NodeJS bindings for the Axiom API
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.10.0](https://github.com/axiomhq/cli/releases/tag/v0.10.0), 3 weeks ago) - The power of Axiom on the command line.
-- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.12.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.12.0), 1 month ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
+- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.12.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.12.0), 2 months ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
 - [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v4](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v4), 2 months ago) - Ingest logs and platform events from your lambda functions
 
 #### 💬 Feedback
