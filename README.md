@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.18.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.18.0), 2 days ago) - The official Next.js library for Axiom.
+- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v0.18.0](https://github.com/axiomhq/next-axiom/releases/tag/v0.18.0), 3 days ago) - The official Next.js library for Axiom.
 - [axiomhq/axiom-py](https://github.com/axiomhq/axiom-py) ([v0.1.0](https://github.com/axiomhq/axiom-py/releases/tag/v0.1.0), 2 weeks ago) - The official Python bindings for the Axiom API
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.15.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.15.2), 1 month ago) - Official Go bindings for the Axiom API
 - [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.12.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.12.0), 1 month ago) - The official NodeJS bindings for the Axiom API
