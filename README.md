@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.5.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.5.0), 1 day ago) - A syslog push interface to Axiom.
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.5.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.5.0), 2 days ago) - A syslog push interface to Axiom.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.16.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.16.1), 1 week ago) - Official Go bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.0.0-rc.1](https://github.com/axiomhq/next-axiom/releases/tag/v1.0.0-rc.1), 2 weeks ago) - The official Next.js library for Axiom.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.11.0](https://github.com/axiomhq/cli/releases/tag/v0.11.0), 3 weeks ago) - The power of Axiom on the command line.
