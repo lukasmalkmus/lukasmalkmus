@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.7.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.7.0), today) - A syslog push interface to Axiom.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.16.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.16.2), 2 days ago) - Official Go bindings for the Axiom API
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.11.0](https://github.com/axiomhq/cli/releases/tag/v0.11.0), 4 weeks ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.7.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.7.0), 1 day ago) - A syslog push interface to Axiom.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.16.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.16.2), 3 days ago) - Official Go bindings for the Axiom API
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.11.0](https://github.com/axiomhq/cli/releases/tag/v0.11.0), 1 month ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-py](https://github.com/axiomhq/axiom-py) ([v0.1.0](https://github.com/axiomhq/axiom-py/releases/tag/v0.1.0), 2 months ago) - The official Python bindings for the Axiom API
 - [axiomhq/axiom-node](https://github.com/axiomhq/axiom-node) ([v0.12.0](https://github.com/axiomhq/axiom-node/releases/tag/v0.12.0), 3 months ago) - [DEPRECATED] Use axiomhq/axiom-js instead.
 
