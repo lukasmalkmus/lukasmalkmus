@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.11.1](https://github.com/axiomhq/cli/releases/tag/v0.11.1), 1 week ago) - The power of Axiom on the command line.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.11.2](https://github.com/axiomhq/cli/releases/tag/v0.11.2), today) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.0), 3 weeks ago) - Official Go bindings for the Axiom API
 - [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.7.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.7.0), 3 weeks ago) - A syslog push interface to Axiom.
 - [axiomhq/axiom-py](https://github.com/axiomhq/axiom-py) ([v0.1.0](https://github.com/axiomhq/axiom-py/releases/tag/v0.1.0), 2 months ago) - The official Python bindings for the Axiom API
