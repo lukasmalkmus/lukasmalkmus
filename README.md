@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-py](https://github.com/axiomhq/axiom-py) ([v0.2.0](https://github.com/axiomhq/axiom-py/releases/tag/v0.2.0), 6 days ago) - The official Python bindings for the Axiom API
+- [axiomhq/axiom-py](https://github.com/axiomhq/axiom-py) ([v0.2.0](https://github.com/axiomhq/axiom-py/releases/tag/v0.2.0), 1 week ago) - The official Python bindings for the Axiom API
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.5.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.5.0), 3 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.11.3](https://github.com/axiomhq/cli/releases/tag/v0.11.3), 3 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.0), 1 month ago) - Official Go bindings for the Axiom API
