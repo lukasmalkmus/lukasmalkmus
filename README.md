@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.1.1](https://github.com/axiomhq/next-axiom/releases/tag/v1.1.1), 1 day ago) - The official Next.js library for Axiom.
-- [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v8](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v8), 2 days ago) - Ingest logs and platform events from your lambda functions
+- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.1.1](https://github.com/axiomhq/next-axiom/releases/tag/v1.1.1), 2 days ago) - The official Next.js library for Axiom.
+- [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v8](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v8), 3 days ago) - Ingest logs and platform events from your lambda functions
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.11.5](https://github.com/axiomhq/cli/releases/tag/v0.11.5), 1 week ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.2), 1 week ago) - Official Go bindings for the Axiom API
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.6.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.6.0), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
