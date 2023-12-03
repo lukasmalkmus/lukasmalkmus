@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.0](https://github.com/axiomhq/cli/releases/tag/v0.12.0), today) - The power of Axiom on the command line.
-- [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.9.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.9.0), 2 days ago) - Official Rust bindings for the Axiom API
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.0](https://github.com/axiomhq/cli/releases/tag/v0.12.0), 1 day ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.9.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.9.0), 3 days ago) - Official Rust bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.1.1](https://github.com/axiomhq/next-axiom/releases/tag/v1.1.1), 2 weeks ago) - The official Next.js library for Axiom.
 - [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v8](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v8), 2 weeks ago) - Ingest logs and platform events from your lambda functions
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.2), 3 weeks ago) - Official Go bindings for the Axiom API
