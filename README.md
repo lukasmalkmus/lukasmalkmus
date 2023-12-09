@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.0](https://github.com/axiomhq/cli/releases/tag/v0.12.0), 6 days ago) - The power of Axiom on the command line.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.0](https://github.com/axiomhq/cli/releases/tag/v0.12.0), 1 week ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.9.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.9.0), 1 week ago) - Official Rust bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.1.1](https://github.com/axiomhq/next-axiom/releases/tag/v1.1.1), 3 weeks ago) - The official Next.js library for Axiom.
 - [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v8](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v8), 3 weeks ago) - Ingest logs and platform events from your lambda functions
