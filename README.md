@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.0), 5 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.0), 6 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.0](https://github.com/axiomhq/cli/releases/tag/v0.12.0), 3 weeks ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-rs](https://github.com/axiomhq/axiom-rs) ([v0.9.0](https://github.com/axiomhq/axiom-rs/releases/tag/v0.9.0), 3 weeks ago) - Official Rust bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.1.1](https://github.com/axiomhq/next-axiom/releases/tag/v1.1.1), 1 month ago) - The official Next.js library for Axiom.
