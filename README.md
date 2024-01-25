@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.9.0-rc.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.9.0-rc.0), 5 days ago) - A Raspberry Pi CPU temperature exporter.
+- [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.9.0-rc.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.9.0-rc.0), 6 days ago) - A Raspberry Pi CPU temperature exporter.
 - [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v11](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v11), 1 week ago) - Ingest logs and platform events from your lambda functions
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.2](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.2), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.0](https://github.com/axiomhq/cli/releases/tag/v0.12.0), 1 month ago) - The power of Axiom on the command line.
