@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.20.0](https://github.com/chasefleming/elem-go/releases/tag/v0.20.0), 4 days ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
-- [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.9.0-rc.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.9.0-rc.0), 2 weeks ago) - A Raspberry Pi CPU temperature exporter.
+- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.20.0](https://github.com/chasefleming/elem-go/releases/tag/v0.20.0), 5 days ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
+- [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.9.0-rc.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.9.0-rc.0), 3 weeks ago) - A Raspberry Pi CPU temperature exporter.
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v0.81.2](https://github.com/ogen-go/ogen/releases/tag/v0.81.2), 3 weeks ago) - OpenAPI v3 code generator for go
 - [axiomhq/axiom-lambda-extension](https://github.com/axiomhq/axiom-lambda-extension) ([v11](https://github.com/axiomhq/axiom-lambda-extension/releases/tag/v11), 3 weeks ago) - Ingest logs and platform events from your lambda functions
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.2](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.2), 3 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
