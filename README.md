@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.22.0](https://github.com/chasefleming/elem-go/releases/tag/v0.22.0), 4 days ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
+- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.22.0](https://github.com/chasefleming/elem-go/releases/tag/v0.22.0), 5 days ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v0.82.0](https://github.com/ogen-go/ogen/releases/tag/v0.82.0), 2 weeks ago) - OpenAPI v3 code generator for go
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.8.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.8.0), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.8.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.8.0), 3 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [lukasmalkmus/rpi_exporter](https://github.com/lukasmalkmus/rpi_exporter) ([v0.9.0-rc.0](https://github.com/lukasmalkmus/rpi_exporter/releases/tag/v0.9.0-rc.0), 1 month ago) - A Raspberry Pi CPU temperature exporter.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.0](https://github.com/axiomhq/cli/releases/tag/v0.12.0), 3 months ago) - The power of Axiom on the command line.
 
