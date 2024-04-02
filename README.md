@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.24.0](https://github.com/chasefleming/elem-go/releases/tag/v0.24.0), 3 days ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
+- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.24.0](https://github.com/chasefleming/elem-go/releases/tag/v0.24.0), 4 days ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
 - [axiomhq/terraform-provider-axiom](https://github.com/axiomhq/terraform-provider-axiom) ([v1.0.0](https://github.com/axiomhq/terraform-provider-axiom/releases/tag/v1.0.0), 2 weeks ago) - Axiom Terraform Provider
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.0.0](https://github.com/ogen-go/ogen/releases/tag/v1.0.0), 2 weeks ago) - OpenAPI v3 code generator for go
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.8.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.8.0), 1 month ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
