@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.4](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.4), today) - Official Go bindings for the Axiom API
+- [axiomhq/terraform-provider-axiom](https://github.com/axiomhq/terraform-provider-axiom) ([v1.0.3](https://github.com/axiomhq/terraform-provider-axiom/releases/tag/v1.0.3), today) - Axiom Terraform Provider
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.5](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.5), today) - Official Go bindings for the Axiom API
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.1](https://github.com/axiomhq/cli/releases/tag/v0.12.1), today) - The power of Axiom on the command line.
-- [axiomhq/terraform-provider-axiom](https://github.com/axiomhq/terraform-provider-axiom) ([v1.0.2](https://github.com/axiomhq/terraform-provider-axiom/releases/tag/v1.0.2), today) - Axiom Terraform Provider
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.9.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.9.0), 1 day ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.24.0](https://github.com/chasefleming/elem-go/releases/tag/v0.24.0), 5 days ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
 
