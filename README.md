@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.7.1](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.7.1), 1 week ago) - A syslog push interface to Axiom.
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.7.2](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.7.2), today) - A syslog push interface to Axiom.
 - [axiomhq/terraform-provider-axiom](https://github.com/axiomhq/terraform-provider-axiom) ([v1.0.4](https://github.com/axiomhq/terraform-provider-axiom/releases/tag/v1.0.4), 1 week ago) - Axiom Terraform Provider
 - [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.25.0](https://github.com/chasefleming/elem-go/releases/tag/v0.25.0), 1 week ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.5](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.5), 1 week ago) - Official Go bindings for the Axiom API
