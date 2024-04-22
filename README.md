@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.1.0](https://github.com/ogen-go/ogen/releases/tag/v1.1.0), 4 days ago) - OpenAPI v3 code generator for go
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.7.2](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.7.2), 5 days ago) - A syslog push interface to Axiom.
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.1.0](https://github.com/ogen-go/ogen/releases/tag/v1.1.0), 5 days ago) - OpenAPI v3 code generator for go
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.7.2](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.7.2), 6 days ago) - A syslog push interface to Axiom.
 - [axiomhq/terraform-provider-axiom](https://github.com/axiomhq/terraform-provider-axiom) ([v1.0.4](https://github.com/axiomhq/terraform-provider-axiom/releases/tag/v1.0.4), 2 weeks ago) - Axiom Terraform Provider
 - [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.25.0](https://github.com/chasefleming/elem-go/releases/tag/v0.25.0), 2 weeks ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.5](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.5), 2 weeks ago) - Official Go bindings for the Axiom API
