@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.2.0](https://github.com/axiomhq/next-axiom/releases/tag/v1.2.0), 2 days ago) - The official Next.js library for Axiom.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.7](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.7), 1 week ago) - Official Go bindings for the Axiom API
-- [axiomhq/terraform-provider-axiom](https://github.com/axiomhq/terraform-provider-axiom) ([v1.1.0](https://github.com/axiomhq/terraform-provider-axiom/releases/tag/v1.1.0), 1 week ago) - Axiom Terraform Provider
+- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.2.0](https://github.com/axiomhq/next-axiom/releases/tag/v1.2.0), 3 days ago) - The official Next.js library for Axiom.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.7](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.7), 2 weeks ago) - Official Go bindings for the Axiom API
+- [axiomhq/terraform-provider-axiom](https://github.com/axiomhq/terraform-provider-axiom) ([v1.1.0](https://github.com/axiomhq/terraform-provider-axiom/releases/tag/v1.1.0), 2 weeks ago) - Axiom Terraform Provider
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.1.0](https://github.com/ogen-go/ogen/releases/tag/v1.1.0), 3 weeks ago) - OpenAPI v3 code generator for go
 - [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.7.2](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.7.2), 3 weeks ago) - A syslog push interface to Axiom.
 
