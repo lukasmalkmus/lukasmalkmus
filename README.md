@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.3](https://github.com/axiomhq/cli/releases/tag/v0.12.3), 4 days ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.8](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.8), 4 days ago) - Official Go bindings for the Axiom API
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.3](https://github.com/axiomhq/cli/releases/tag/v0.12.3), 5 days ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.8](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.8), 5 days ago) - Official Go bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.2.0](https://github.com/axiomhq/next-axiom/releases/tag/v1.2.0), 1 week ago) - The official Next.js library for Axiom.
 - [axiomhq/terraform-provider-axiom](https://github.com/axiomhq/terraform-provider-axiom) ([v1.1.0](https://github.com/axiomhq/terraform-provider-axiom/releases/tag/v1.1.0), 3 weeks ago) - Axiom Terraform Provider
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.1.0](https://github.com/ogen-go/ogen/releases/tag/v1.1.0), 1 month ago) - OpenAPI v3 code generator for go
