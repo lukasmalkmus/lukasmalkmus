@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.1.1](https://github.com/ogen-go/ogen/releases/tag/v1.1.1), 3 days ago) - OpenAPI v3 code generator for go
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.2.0](https://github.com/ogen-go/ogen/releases/tag/v1.2.0), today) - OpenAPI v3 code generator for go
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.3](https://github.com/axiomhq/cli/releases/tag/v0.12.3), 1 week ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.17.8](https://github.com/axiomhq/axiom-go/releases/tag/v0.17.8), 1 week ago) - Official Go bindings for the Axiom API
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.2.0](https://github.com/axiomhq/next-axiom/releases/tag/v1.2.0), 2 weeks ago) - The official Next.js library for Axiom.
