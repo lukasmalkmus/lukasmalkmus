@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.10.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.10.0), today) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.18.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.18.1), 4 days ago) - Official Go bindings for the Axiom API
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.2.1](https://github.com/ogen-go/ogen/releases/tag/v1.2.1), 1 week ago) - OpenAPI v3 code generator for go
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.3.0](https://github.com/axiomhq/next-axiom/releases/tag/v1.3.0), 1 week ago) - The official Next.js library for Axiom.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.12.3](https://github.com/axiomhq/cli/releases/tag/v0.12.3), 3 weeks ago) - The power of Axiom on the command line.
-- [axiomhq/terraform-provider-axiom](https://github.com/axiomhq/terraform-provider-axiom) ([v1.1.0](https://github.com/axiomhq/terraform-provider-axiom/releases/tag/v1.1.0), 1 month ago) - Axiom Terraform Provider
 
 #### 💬 Feedback
 
