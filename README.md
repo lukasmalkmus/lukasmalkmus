@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.13.0](https://github.com/axiomhq/cli/releases/tag/v0.13.0), 6 days ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.19.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.19.0), 6 days ago) - Official Go bindings for the Axiom API
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.13.0](https://github.com/axiomhq/cli/releases/tag/v0.13.0), 1 week ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.19.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.19.0), 1 week ago) - Official Go bindings for the Axiom API
 - [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.26.0](https://github.com/chasefleming/elem-go/releases/tag/v0.26.0), 1 week ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.10.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.10.0), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.2.1](https://github.com/ogen-go/ogen/releases/tag/v1.2.1), 3 weeks ago) - OpenAPI v3 code generator for go
