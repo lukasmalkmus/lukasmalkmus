@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.13.1](https://github.com/axiomhq/cli/releases/tag/v0.13.1), today) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.20.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.20.2), 3 days ago) - Official Go bindings for the Axiom API
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.3.0](https://github.com/ogen-go/ogen/releases/tag/v1.3.0), 4 days ago) - OpenAPI v3 code generator for go
-- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.4.1](https://github.com/axiomhq/next-axiom/releases/tag/v1.4.1), 4 days ago) - The official Next.js library for Axiom.
-- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.28.0](https://github.com/chasefleming/elem-go/releases/tag/v0.28.0), 4 days ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.13.1](https://github.com/axiomhq/cli/releases/tag/v0.13.1), 1 day ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.20.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.20.2), 4 days ago) - Official Go bindings for the Axiom API
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.3.0](https://github.com/ogen-go/ogen/releases/tag/v1.3.0), 5 days ago) - OpenAPI v3 code generator for go
+- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) ([v1.4.1](https://github.com/axiomhq/next-axiom/releases/tag/v1.4.1), 5 days ago) - The official Next.js library for Axiom.
+- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.28.0](https://github.com/chasefleming/elem-go/releases/tag/v0.28.0), 5 days ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
 
 #### 💬 Feedback
 
