@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.7.0](https://github.com/ogen-go/ogen/releases/tag/v1.7.0), 3 days ago) - OpenAPI v3 code generator for go
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.8.0](https://github.com/ogen-go/ogen/releases/tag/v1.8.0), today) - OpenAPI v3 code generator for go
 - [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.30.0](https://github.com/chasefleming/elem-go/releases/tag/v0.30.0), 3 weeks ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.21.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.21.1), 2 months ago) - Official Go bindings for the Axiom API
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.0](https://github.com/axiomhq/cli/releases/tag/v0.14.0), 2 months ago) - The power of Axiom on the command line.
