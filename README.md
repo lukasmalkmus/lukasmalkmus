@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.2.2](https://github.com/axiomhq/hyperloglog/releases/tag/v0.2.2), 1 day ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
+- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.2.2](https://github.com/axiomhq/hyperloglog/releases/tag/v0.2.2), 2 days ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) ([v1.8.1](https://github.com/ogen-go/ogen/releases/tag/v1.8.1), 2 weeks ago) - OpenAPI v3 code generator for go
 - [chasefleming/elem-go](https://github.com/chasefleming/elem-go) ([v0.30.0](https://github.com/chasefleming/elem-go/releases/tag/v0.30.0), 1 month ago) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers).
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.21.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.21.1), 3 months ago) - Official Go bindings for the Axiom API
