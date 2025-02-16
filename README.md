@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.22.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.22.1), 2 days ago) - Official Go bindings for the Axiom API
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.22.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.22.1), 3 days ago) - Official Go bindings for the Axiom API
 - [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.2.3](https://github.com/axiomhq/hyperloglog/releases/tag/v0.2.3), 1 month ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.0](https://github.com/axiomhq/cli/releases/tag/v0.14.0), 5 months ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.7.0](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.7.0), 2 years ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
