@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.13.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.13.0), 5 days ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
-- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.8.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.8.0), 5 days ago) - A syslog push interface to Axiom.
-- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.8.1](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.8.1), 5 days ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
+- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.13.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.13.0), 6 days ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
+- [axiomhq/axiom-syslog-proxy](https://github.com/axiomhq/axiom-syslog-proxy) ([v0.8.0](https://github.com/axiomhq/axiom-syslog-proxy/releases/tag/v0.8.0), 6 days ago) - A syslog push interface to Axiom.
+- [axiomhq/axiom-honeycomb-proxy](https://github.com/axiomhq/axiom-honeycomb-proxy) ([v0.8.1](https://github.com/axiomhq/axiom-honeycomb-proxy/releases/tag/v0.8.1), 6 days ago) - A log forwarder/multiplexer for Axiom and Honeycomb.
 - [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.2.5](https://github.com/axiomhq/hyperloglog/releases/tag/v0.2.5), 1 month ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.23.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.23.0), 1 month ago) - Official Go bindings for the Axiom API
 
