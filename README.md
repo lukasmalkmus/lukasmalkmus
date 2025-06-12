@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.23.3](https://github.com/axiomhq/axiom-go/releases/tag/v0.23.3), 3 weeks ago) - Official Go bindings for the Axiom API
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.24.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.24.0), today) - Official Go bindings for the Axiom API
 - [axiomhq/axiom-grafana](https://github.com/axiomhq/axiom-grafana) ([v0.6.2](https://github.com/axiomhq/axiom-grafana/releases/tag/v0.6.2), 1 month ago) - The official Axiom datasource plugin for Grafana.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.1](https://github.com/axiomhq/cli/releases/tag/v0.14.1), 1 month ago) - The power of Axiom on the command line.
 - [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.13.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.13.0), 2 months ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
