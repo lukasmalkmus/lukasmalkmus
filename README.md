@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/mcp-server-axiom](https://github.com/axiomhq/mcp-server-axiom) ([v0.0.4](https://github.com/axiomhq/mcp-server-axiom/releases/tag/v0.0.4), 1 week ago) - Axiom Model Context Protocol Server
+- [axiomhq/mcp-server-axiom](https://github.com/axiomhq/mcp-server-axiom) ([v0.0.4](https://github.com/axiomhq/mcp-server-axiom/releases/tag/v0.0.4), 2 weeks ago) - Axiom Model Context Protocol Server
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.25.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.25.0), 1 month ago) - Official Go bindings for the Axiom API
 - [axiomhq/axiom-grafana](https://github.com/axiomhq/axiom-grafana) ([v0.6.2](https://github.com/axiomhq/axiom-grafana/releases/tag/v0.6.2), 3 months ago) - The official Axiom datasource plugin for Grafana.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.1](https://github.com/axiomhq/cli/releases/tag/v0.14.1), 3 months ago) - The power of Axiom on the command line.
