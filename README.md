@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.3](https://github.com/axiomhq/cli/releases/tag/v0.14.3), today) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.26.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.26.0), today) - Official Go bindings for the Axiom API
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.3](https://github.com/axiomhq/cli/releases/tag/v0.14.3), 1 day ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.26.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.26.0), 1 day ago) - Official Go bindings for the Axiom API
 - [axiomhq/mcp-server-axiom](https://github.com/axiomhq/mcp-server-axiom) ([v0.0.5](https://github.com/axiomhq/mcp-server-axiom/releases/tag/v0.0.5), 1 week ago) - Axiom Model Context Protocol Server
 - [axiomhq/axiom-grafana](https://github.com/axiomhq/axiom-grafana) ([v0.6.2](https://github.com/axiomhq/axiom-grafana/releases/tag/v0.6.2), 3 months ago) - The official Axiom datasource plugin for Grafana.
 - [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.13.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.13.0), 4 months ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
