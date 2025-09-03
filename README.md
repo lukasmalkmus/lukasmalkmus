@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.7](https://github.com/axiomhq/cli/releases/tag/v0.14.7), 5 days ago) - The power of Axiom on the command line.
-- [axiomhq/logmanager](https://github.com/axiomhq/logmanager) ([v1.1.1](https://github.com/axiomhq/logmanager/releases/tag/v1.1.1), 5 days ago) - Yet another Go logging library.
-- [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.3.1](https://github.com/axiomhq/variance/releases/tag/v0.3.1), 5 days ago) - Go implementation of variance&#39;s method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.26.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.26.2), 5 days ago) - Official Go bindings for the Axiom API
-- [axiomhq/mcp-server-axiom](https://github.com/axiomhq/mcp-server-axiom) ([v0.0.5](https://github.com/axiomhq/mcp-server-axiom/releases/tag/v0.0.5), 2 weeks ago) - Axiom Model Context Protocol Server
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.7](https://github.com/axiomhq/cli/releases/tag/v0.14.7), 6 days ago) - The power of Axiom on the command line.
+- [axiomhq/logmanager](https://github.com/axiomhq/logmanager) ([v1.1.1](https://github.com/axiomhq/logmanager/releases/tag/v1.1.1), 6 days ago) - Yet another Go logging library.
+- [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.3.1](https://github.com/axiomhq/variance/releases/tag/v0.3.1), 6 days ago) - Go implementation of variance&#39;s method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.26.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.26.2), 6 days ago) - Official Go bindings for the Axiom API
+- [axiomhq/mcp-server-axiom](https://github.com/axiomhq/mcp-server-axiom) ([v0.0.5](https://github.com/axiomhq/mcp-server-axiom/releases/tag/v0.0.5), 3 weeks ago) - Axiom Model Context Protocol Server
 
 #### 💬 Feedback
 
