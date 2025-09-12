@@ -16,7 +16,7 @@ It's me, Lukas. Software developer by day and night.
 - [axiomhq/logmanager](https://github.com/axiomhq/logmanager) ([v1.1.1](https://github.com/axiomhq/logmanager/releases/tag/v1.1.1), 2 weeks ago) - Yet another Go logging library.
 - [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.3.1](https://github.com/axiomhq/variance/releases/tag/v0.3.1), 2 weeks ago) - Go implementation of variance&#39;s method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.26.2](https://github.com/axiomhq/axiom-go/releases/tag/v0.26.2), 2 weeks ago) - Official Go bindings for the Axiom API
-- [axiomhq/mcp-server-axiom](https://github.com/axiomhq/mcp-server-axiom) ([v0.0.5](https://github.com/axiomhq/mcp-server-axiom/releases/tag/v0.0.5), 4 weeks ago) - Axiom Model Context Protocol Server
+- [axiomhq/mcp-server-axiom](https://github.com/axiomhq/mcp-server-axiom) ([v0.0.5](https://github.com/axiomhq/mcp-server-axiom/releases/tag/v0.0.5), 1 month ago) - Axiom Model Context Protocol Server
 
 #### 💬 Feedback
 
