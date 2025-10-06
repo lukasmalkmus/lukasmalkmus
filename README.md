@@ -5,10 +5,10 @@ It's me, Lukas. Software developer by day and night.
 #### 🌱 My latest projects
 
 - [lukasmalkmus/tree-sitter-codeowners](https://github.com/lukasmalkmus/tree-sitter-codeowners) - 
+- [lukasmalkmus/codeowners-zed](https://github.com/lukasmalkmus/codeowners-zed) - GitHub CODEOWNERS support for Zed
 - [lukasmalkmus/weather-agent-example](https://github.com/lukasmalkmus/weather-agent-example) - One Agent, one Workflow and one Tool to bring you the weather in your city.
 - [lukasmalkmus/hkcode](https://github.com/lukasmalkmus/hkcode) - Apple HomeKit® Setup Code generator and library.
 - [lukasmalkmus/go-talks](https://github.com/lukasmalkmus/go-talks) - A collection of Go related talks.
-- [lukasmalkmus/icloud-go](https://github.com/lukasmalkmus/icloud-go) - Go client library for the CloudKit Web Services API.
 
 #### 🔭 Latest releases I've contributed to
 
