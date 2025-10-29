@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.1.4](https://github.com/charmbracelet/fantasy/releases/tag/v0.1.4), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.22.2](https://github.com/axiomhq/ai/releases/tag/axiom-v0.22.2), 1 week ago) - Axiom&#39;s AI SDK
 - [axiomhq/axiom-grafana](https://github.com/axiomhq/axiom-grafana) ([v0.6.3](https://github.com/axiomhq/axiom-grafana/releases/tag/v0.6.3), 1 month ago) - The official Axiom datasource plugin for Grafana.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.7](https://github.com/axiomhq/cli/releases/tag/v0.14.7), 2 months ago) - The power of Axiom on the command line.
 - [axiomhq/logmanager](https://github.com/axiomhq/logmanager) ([v1.1.1](https://github.com/axiomhq/logmanager/releases/tag/v1.1.1), 2 months ago) - Yet another Go logging library.
-- [axiomhq/variance](https://github.com/axiomhq/variance) ([v0.3.1](https://github.com/axiomhq/variance/releases/tag/v0.3.1), 2 months ago) - Go implementation of variance&#39;s method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
 
 #### 💬 Feedback
 
