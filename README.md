@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.12.0b0](https://github.com/home-assistant/core/releases/tag/2025.12.0b0), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.31.1](https://github.com/axiomhq/ai/releases/tag/axiom-v0.31.1), today) - Axiom&#39;s AI SDK
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.11.3](https://github.com/home-assistant/core/releases/tag/2025.11.3), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.3.2](https://github.com/charmbracelet/fantasy/releases/tag/v0.3.2), 1 week ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [axiomhq/axiom-grafana](https://github.com/axiomhq/axiom-grafana) ([v0.6.3](https://github.com/axiomhq/axiom-grafana/releases/tag/v0.6.3), 2 months ago) - The official Axiom datasource plugin for Grafana.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.7](https://github.com/axiomhq/cli/releases/tag/v0.14.7), 3 months ago) - The power of Axiom on the command line.
