@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.27.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.27.0), today) - Official Go bindings for the Axiom API
 - [home-assistant/core](https://github.com/home-assistant/core) ([2025.12.4](https://github.com/home-assistant/core/releases/tag/2025.12.4), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.5.5](https://github.com/charmbracelet/fantasy/releases/tag/v0.5.5), 6 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.35.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.35.0), 6 days ago) - Axiom&#39;s AI SDK
 - [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.2.6](https://github.com/axiomhq/hyperloglog/releases/tag/v0.2.6), 1 week ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
-- [axiomhq/axiom-grafana](https://github.com/axiomhq/axiom-grafana) ([v0.6.3](https://github.com/axiomhq/axiom-grafana/releases/tag/v0.6.3), 3 months ago) - The official Axiom datasource plugin for Grafana.
 
 #### 💬 Feedback
 
