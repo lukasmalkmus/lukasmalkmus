@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.36.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.36.0), today) - Axiom&#39;s AI SDK
+- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.37.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.37.0), today) - Axiom&#39;s AI SDK
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.1.0](https://github.com/home-assistant/core/releases/tag/2026.1.0), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.6.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.6.0), 3 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.27.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.27.0), 2 weeks ago) - Official Go bindings for the Axiom API
