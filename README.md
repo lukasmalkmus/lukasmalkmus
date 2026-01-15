@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.6.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.6.1), 2 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.1.1](https://github.com/home-assistant/core/releases/tag/2026.1.1), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.37.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.37.0), 6 days ago) - Axiom&#39;s AI SDK
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.27.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.27.0), 2 weeks ago) - Official Go bindings for the Axiom API
-- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.2.6](https://github.com/axiomhq/hyperloglog/releases/tag/v0.2.6), 4 weeks ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.6.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.6.1), 3 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.1.1](https://github.com/home-assistant/core/releases/tag/2026.1.1), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.37.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.37.0), 1 week ago) - Axiom&#39;s AI SDK
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.27.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.27.0), 3 weeks ago) - Official Go bindings for the Axiom API
+- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.2.6](https://github.com/axiomhq/hyperloglog/releases/tag/v0.2.6), 1 month ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
 
 #### 💬 Feedback
 
