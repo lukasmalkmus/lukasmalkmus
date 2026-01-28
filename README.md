@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.14.8](https://github.com/axiomhq/cli/releases/tag/v0.14.8), today) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.28.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.28.0), today) - Official Go bindings for the Axiom API
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.1.3](https://github.com/home-assistant/core/releases/tag/2026.1.3), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.38.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.38.0), 1 week ago) - Axiom&#39;s AI SDK
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.6.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.6.1), 2 weeks ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
-- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.2.6](https://github.com/axiomhq/hyperloglog/releases/tag/v0.2.6), 1 month ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
 
 #### 💬 Feedback
 
