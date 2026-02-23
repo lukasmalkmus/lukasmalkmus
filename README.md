@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.6.3](https://github.com/lukasmalkmus/pngx/releases/tag/v0.6.3), today) - AI-native CLI for Paperless-ngx
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.2.3](https://github.com/home-assistant/core/releases/tag/2026.2.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.6.2](https://github.com/lukasmalkmus/pngx/releases/tag/v0.6.2), 3 days ago) - AI-native CLI for Paperless-ngx
 - [axiomhq/axiom-grafana](https://github.com/axiomhq/axiom-grafana) ([v0.6.4](https://github.com/axiomhq/axiom-grafana/releases/tag/v0.6.4), 3 days ago) - The official Axiom datasource plugin for Grafana.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.30.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.30.0), 3 days ago) - Official Go bindings for the Axiom API
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.9.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.9.0), 4 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
