@@ -16,7 +16,7 @@ It's me, Lukas. Software developer by day and night.
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.6.3](https://github.com/lukasmalkmus/pngx/releases/tag/v0.6.3), today) - AI-native CLI for Paperless-ngx
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.2.3](https://github.com/home-assistant/core/releases/tag/2026.2.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.30.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.30.0), 3 days ago) - Official Go bindings for the Axiom API
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.9.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.9.0), 4 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.13.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.13.0), 3 days ago) - Browser automation CLI for AI agents
 
 #### 💬 Feedback
 
