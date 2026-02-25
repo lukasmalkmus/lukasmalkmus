@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.46.1](https://github.com/axiomhq/ai/releases/tag/axiom-v0.46.1), today) - Axiom&#39;s AI SDK
+- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.47.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.47.0), today) - Axiom&#39;s AI SDK
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.10.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.10.0), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.14.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.14.0), 2 days ago) - Browser automation CLI for AI agents
 - [axiomhq/axiom-grafana](https://github.com/axiomhq/axiom-grafana) ([v0.6.4](https://github.com/axiomhq/axiom-grafana/releases/tag/v0.6.4), 2 days ago) - The official Axiom datasource plugin for Grafana.
