@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.16.2](https://github.com/vercel-labs/agent-browser/releases/tag/v0.16.2), today) - Browser automation CLI for AI agents
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.16.3](https://github.com/vercel-labs/agent-browser/releases/tag/v0.16.3), today) - Browser automation CLI for AI agents
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.31.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.31.0), 1 day ago) - Official Go bindings for the Axiom API
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.0b2](https://github.com/home-assistant/core/releases/tag/2026.3.0b2), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.48.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.48.0), 5 days ago) - Axiom&#39;s AI SDK
