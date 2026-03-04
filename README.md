@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.0b4](https://github.com/home-assistant/core/releases/tag/2026.3.0b4), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.0](https://github.com/home-assistant/core/releases/tag/2026.3.0), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.49.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.49.0), today) - Axiom&#39;s AI SDK
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.16.3](https://github.com/vercel-labs/agent-browser/releases/tag/v0.16.3), today) - Browser automation CLI for AI agents
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.31.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.31.0), 1 day ago) - Official Go bindings for the Axiom API
