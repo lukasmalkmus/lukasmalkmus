@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.7.0](https://github.com/lukasmalkmus/pngx/releases/tag/v0.7.0), today) - AI-native CLI for Paperless-ngx
+- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.7.1](https://github.com/lukasmalkmus/pngx/releases/tag/v0.7.1), today) - AI-native CLI for Paperless-ngx
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.1](https://github.com/home-assistant/core/releases/tag/2026.3.1), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.11.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.11.1), 2 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.49.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.49.0), 3 days ago) - Axiom&#39;s AI SDK
