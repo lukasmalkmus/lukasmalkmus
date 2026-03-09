@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.17.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.17.0), 1 day ago) - Browser automation CLI for AI agents
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.17.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.17.1), today) - Browser automation CLI for AI agents
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.7.1](https://github.com/lukasmalkmus/pngx/releases/tag/v0.7.1), 2 days ago) - AI-native CLI for Paperless-ngx
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.1](https://github.com/home-assistant/core/releases/tag/2026.3.1), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.11.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.11.1), 4 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
