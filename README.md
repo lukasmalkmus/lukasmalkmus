@@ -4,11 +4,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🌱 My latest projects
 
+- [lukasmalkmus/ClaudeOmator](https://github.com/lukasmalkmus/ClaudeOmator) - A macOS menu bar app that runs Claude Code workflows on autopilot.
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) - AI-native CLI for Paperless-ngx
 - [lukasmalkmus/tree-sitter-codeowners](https://github.com/lukasmalkmus/tree-sitter-codeowners) - 
 - [lukasmalkmus/codeowners-zed](https://github.com/lukasmalkmus/codeowners-zed) - GitHub CODEOWNERS support for Zed
 - [lukasmalkmus/weather-agent-example](https://github.com/lukasmalkmus/weather-agent-example) - One Agent, one Workflow and one Tool to bring you the weather in your city.
-- [lukasmalkmus/hkcode](https://github.com/lukasmalkmus/hkcode) - Apple HomeKit® Setup Code generator and library.
 
 #### 🔭 Latest releases I've contributed to
 
