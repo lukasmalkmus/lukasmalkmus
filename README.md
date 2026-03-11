@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.12.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.12.0), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.12.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.12.1), today) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.49.1](https://github.com/axiomhq/ai/releases/tag/axiom-v0.49.1), 1 day ago) - Axiom&#39;s AI SDK
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.17.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.17.1), 2 days ago) - Browser automation CLI for AI agents
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.7.1](https://github.com/lukasmalkmus/pngx/releases/tag/v0.7.1), 4 days ago) - AI-native CLI for Paperless-ngx
