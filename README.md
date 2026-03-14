@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.20.2](https://github.com/vercel-labs/agent-browser/releases/tag/v0.20.2), today) - Browser automation CLI for AI agents
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.20.3](https://github.com/vercel-labs/agent-browser/releases/tag/v0.20.3), today) - Browser automation CLI for AI agents
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.12.3](https://github.com/charmbracelet/fantasy/releases/tag/v0.12.3), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.15.0](https://github.com/axiomhq/cli/releases/tag/v0.15.0), 2 days ago) - The power of Axiom on the command line.
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.49.2](https://github.com/axiomhq/ai/releases/tag/axiom-v0.49.2), 2 days ago) - Axiom&#39;s AI SDK
