@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.2](https://github.com/home-assistant/core/releases/tag/2026.3.2), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.20.13](https://github.com/vercel-labs/agent-browser/releases/tag/v0.20.13), today) - Browser automation CLI for AI agents
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.12.3](https://github.com/charmbracelet/fantasy/releases/tag/v0.12.3), 3 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.15.0](https://github.com/axiomhq/cli/releases/tag/v0.15.0), 4 days ago) - The power of Axiom on the command line.
-- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.49.2](https://github.com/axiomhq/ai/releases/tag/axiom-v0.49.2), 4 days ago) - Axiom&#39;s AI SDK
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.20.14](https://github.com/vercel-labs/agent-browser/releases/tag/v0.20.14), today) - Browser automation CLI for AI agents
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.2](https://github.com/home-assistant/core/releases/tag/2026.3.2), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.12.3](https://github.com/charmbracelet/fantasy/releases/tag/v0.12.3), 4 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.15.0](https://github.com/axiomhq/cli/releases/tag/v0.15.0), 5 days ago) - The power of Axiom on the command line.
+- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.49.2](https://github.com/axiomhq/ai/releases/tag/axiom-v0.49.2), 5 days ago) - Axiom&#39;s AI SDK
 
 #### 💬 Feedback
 
