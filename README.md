@@ -4,19 +4,19 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🌱 My latest projects
 
+- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) - Agent-native CLI for 1nitetent.com campgrounds
 - [lukasmalkmus/ClaudeOmator](https://github.com/lukasmalkmus/ClaudeOmator) - A macOS menu bar app that runs Claude Code workflows on autopilot.
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) - AI-native CLI for Paperless-ngx
 - [lukasmalkmus/tree-sitter-codeowners](https://github.com/lukasmalkmus/tree-sitter-codeowners) - 
 - [lukasmalkmus/codeowners-zed](https://github.com/lukasmalkmus/codeowners-zed) - GitHub CODEOWNERS support for Zed
-- [lukasmalkmus/weather-agent-example](https://github.com/lukasmalkmus/weather-agent-example) - One Agent, one Workflow and one Tool to bring you the weather in your city.
 
 #### 🔭 Latest releases I've contributed to
 
+- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.2.0](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.2.0), today) - Agent-native CLI for 1nitetent.com campgrounds
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.4.0b5](https://github.com/home-assistant/core/releases/tag/2026.4.0b5), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([agent-browser@0.23.0](https://github.com/vercel-labs/agent-browser/releases/tag/agent-browser%400.23.0), 3 days ago) - Browser automation CLI for AI agents
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.51.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.51.0), 3 days ago) - Axiom&#39;s AI SDK
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.16.0](https://github.com/axiomhq/cli/releases/tag/v0.16.0), 4 days ago) - The power of Axiom on the command line.
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.17.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.17.1), 5 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 
 #### 💬 Feedback
 
