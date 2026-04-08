@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.25.3](https://github.com/vercel-labs/agent-browser/releases/tag/v0.25.3), today) - Browser automation CLI for AI agents
-- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.51.1](https://github.com/axiomhq/ai/releases/tag/axiom-v0.51.1), today) - Axiom&#39;s AI SDK
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.4.1](https://github.com/home-assistant/core/releases/tag/2026.4.1), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.25.3](https://github.com/vercel-labs/agent-browser/releases/tag/v0.25.3), 1 day ago) - Browser automation CLI for AI agents
+- [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.51.1](https://github.com/axiomhq/ai/releases/tag/axiom-v0.51.1), 1 day ago) - Axiom&#39;s AI SDK
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.4.1](https://github.com/home-assistant/core/releases/tag/2026.4.1), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.3.0](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.3.0), 1 week ago) - Agent-native CLI for 1nitetent.com campgrounds
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.16.0](https://github.com/axiomhq/cli/releases/tag/v0.16.0), 1 week ago) - The power of Axiom on the command line.
 
