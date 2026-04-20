@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.2.0](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.2.0), today) - Agent-native CLI (mm) and MCP server for MoneyMoney
+- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.3.0](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.3.0), today) - Agent-native CLI (mm) and MCP server for MoneyMoney
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.4.3](https://github.com/home-assistant/core/releases/tag/2026.4.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.52.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.52.0), 3 days ago) - Axiom&#39;s AI SDK
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.26.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.26.0), 4 days ago) - Browser automation CLI for AI agents
