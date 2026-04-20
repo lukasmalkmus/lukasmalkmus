@@ -4,11 +4,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🌱 My latest projects
 
+- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) - Agent-native CLI (mm) and MCP server for MoneyMoney
 - [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) - Agent-native CLI for 1nitetent.com campgrounds
 - [lukasmalkmus/ClaudeOmator](https://github.com/lukasmalkmus/ClaudeOmator) - A macOS menu bar app that runs Claude Code workflows on autopilot.
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) - AI-native CLI for Paperless-ngx
 - [lukasmalkmus/tree-sitter-codeowners](https://github.com/lukasmalkmus/tree-sitter-codeowners) - 
-- [lukasmalkmus/codeowners-zed](https://github.com/lukasmalkmus/codeowners-zed) - GitHub CODEOWNERS support for Zed
 
 #### 🔭 Latest releases I've contributed to
 
