@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.4.0](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.4.0), 1 day ago) - Agent-native CLI (mm) and MCP server for MoneyMoney
+- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.4.1](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.4.1), today) - Agent-native CLI for 1nitetent.com campgrounds
+- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.8.1](https://github.com/lukasmalkmus/pngx/releases/tag/v0.8.1), today) - AI-native CLI for Paperless-ngx
+- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.5.0](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.5.0), today) - Agent-native CLI (mm) and MCP server for MoneyMoney
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.4.3](https://github.com/home-assistant/core/releases/tag/2026.4.3), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [axiomhq/ai](https://github.com/axiomhq/ai) ([axiom-v0.52.0](https://github.com/axiomhq/ai/releases/tag/axiom-v0.52.0), 4 days ago) - Axiom&#39;s AI SDK
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.26.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.26.0), 5 days ago) - Browser automation CLI for AI agents
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.19.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.19.0), 5 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 
 #### 💬 Feedback
 
