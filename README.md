@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.21.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.21.0), 3 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.4.4](https://github.com/home-assistant/core/releases/tag/2026.4.4), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.8.2](https://github.com/lukasmalkmus/pngx/releases/tag/v0.8.2), 6 days ago) - AI-native CLI for Paperless-ngx
-- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.4.1](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.4.1), 6 days ago) - Agent-native CLI for 1nitetent.com campgrounds
-- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.5.0](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.5.0), 6 days ago) - Agent-native CLI (mm) and MCP server for MoneyMoney
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.21.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.21.0), 4 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.4.4](https://github.com/home-assistant/core/releases/tag/2026.4.4), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.8.2](https://github.com/lukasmalkmus/pngx/releases/tag/v0.8.2), 1 week ago) - AI-native CLI for Paperless-ngx
+- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.4.1](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.4.1), 1 week ago) - Agent-native CLI for 1nitetent.com campgrounds
+- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.5.0](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.5.0), 1 week ago) - Agent-native CLI (mm) and MCP server for MoneyMoney
 
 #### 💬 Feedback
 
