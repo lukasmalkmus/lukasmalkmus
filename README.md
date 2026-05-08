@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.27.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.27.0), today) - Browser automation CLI for AI agents
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.5.0](https://github.com/home-assistant/core/releases/tag/2026.5.0), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.27.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.27.0), 1 day ago) - Browser automation CLI for AI agents
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.5.0](https://github.com/home-assistant/core/releases/tag/2026.5.0), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.23.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.23.0), 1 week ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.32.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.32.0), 1 week ago) - Official Go bindings for the Axiom API
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.8.2](https://github.com/lukasmalkmus/pngx/releases/tag/v0.8.2), 2 weeks ago) - AI-native CLI for Paperless-ngx
