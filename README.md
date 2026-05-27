@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0b0](https://github.com/home-assistant/core/releases/tag/2026.6.0b0), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.5.1](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.5.1), 1 day ago) - Agent-native CLI for 1nitetent.com campgrounds
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.10.0](https://github.com/lukasmalkmus/pngx/releases/tag/v0.10.0), 1 day ago) - AI-native CLI for Paperless-ngx
 - [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.6.0](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.6.0), 1 day ago) - Agent-native CLI (mm) and MCP server for MoneyMoney
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.26.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.26.0), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.5.4](https://github.com/home-assistant/core/releases/tag/2026.5.4), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 #### 💬 Feedback
 
