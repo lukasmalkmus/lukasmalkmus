@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.28.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.28.0), today) - Browser automation CLI for AI agents
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.31.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.31.1), today) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.3](https://github.com/home-assistant/core/releases/tag/2026.6.3), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.28.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.28.0), 1 day ago) - Browser automation CLI for AI agents
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.31.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.31.1), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.3](https://github.com/home-assistant/core/releases/tag/2026.6.3), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.5.2](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.5.2), 2 weeks ago) - Agent-native CLI for 1nitetent.com campgrounds
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.10.1](https://github.com/lukasmalkmus/pngx/releases/tag/v0.10.1), 2 weeks ago) - AI-native CLI for Paperless-ngx
 
