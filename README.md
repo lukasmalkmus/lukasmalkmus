@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.4](https://github.com/home-assistant/core/releases/tag/2026.6.4), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.33.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.33.1), today) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.5.3](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.5.3), 2 days ago) - Agent-native CLI for 1nitetent.com campgrounds
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.10.2](https://github.com/lukasmalkmus/pngx/releases/tag/v0.10.2), 2 days ago) - AI-native CLI for Paperless-ngx
 - [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.6.1](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.6.1), 2 days ago) - Agent-native CLI (mm) and MCP server for MoneyMoney
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.28.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.28.0), 3 days ago) - Browser automation CLI for AI agents
 
 #### 💬 Feedback
 
