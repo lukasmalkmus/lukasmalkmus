@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.35.2](https://github.com/charmbracelet/fantasy/releases/tag/v0.35.2), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.36.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.36.0), today) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.7.1](https://github.com/home-assistant/core/releases/tag/2026.7.1), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.31.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.31.1), 1 week ago) - Browser automation CLI for AI agents
 - [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.5.3](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.5.3), 3 weeks ago) - Agent-native CLI for 1nitetent.com campgrounds
