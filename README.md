@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.6.0](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.6.0), today) - Agent-native CLI for 1nitetent.com campgrounds
-- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.11.0](https://github.com/lukasmalkmus/pngx/releases/tag/v0.11.0), today) - AI-native CLI for Paperless-ngx
-- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.7.0](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.7.0), today) - Agent-native CLI (mm) and MCP server for MoneyMoney
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.41.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.41.1), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.34.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.34.0), 2 days ago) - Browser automation CLI for AI agents
+- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.6.0](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.6.0), 1 day ago) - Agent-native CLI for 1nitetent.com campgrounds
+- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.11.0](https://github.com/lukasmalkmus/pngx/releases/tag/v0.11.0), 1 day ago) - AI-native CLI for Paperless-ngx
+- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.7.0](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.7.0), 1 day ago) - Agent-native CLI (mm) and MCP server for MoneyMoney
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.41.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.41.1), 2 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.34.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.34.0), 3 days ago) - Browser automation CLI for AI agents
 
 #### 💬 Feedback
 
