@@ -12,10 +12,10 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.19.0](https://github.com/axiomhq/cli/releases/tag/v0.19.0), today) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.36.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.36.0), today) - Official Go bindings for the Axiom API
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.41.2](https://github.com/charmbracelet/fantasy/releases/tag/v0.41.2), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.8.2](https://github.com/home-assistant/core/releases/tag/2026.8.2), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.19.0](https://github.com/axiomhq/cli/releases/tag/v0.19.0), 1 day ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.36.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.36.0), 1 day ago) - Official Go bindings for the Axiom API
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.41.2](https://github.com/charmbracelet/fantasy/releases/tag/v0.41.2), 2 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.8.2](https://github.com/home-assistant/core/releases/tag/2026.8.2), 1 week ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.6.0](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.6.0), 1 week ago) - Agent-native CLI for 1nitetent.com campgrounds
 
 #### 💬 Feedback
