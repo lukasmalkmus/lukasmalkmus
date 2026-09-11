@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.20.0](https://github.com/axiomhq/cli/releases/tag/v0.20.0), today) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.37.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.37.0), today) - Official Go bindings for the Axiom API
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.37.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.37.1), 3 days ago) - Browser automation CLI for AI agents
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.43.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.43.1), 4 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.9.1](https://github.com/home-assistant/core/releases/tag/2026.9.1), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.19.1](https://github.com/axiomhq/cli/releases/tag/v0.19.1), 2 weeks ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.36.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.36.1), 2 weeks ago) - Official Go bindings for the Axiom API
 
 #### 💬 Feedback
 
