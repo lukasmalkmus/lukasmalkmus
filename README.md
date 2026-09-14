@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.3.0-rc.1](https://github.com/axiomhq/hyperloglog/releases/tag/v0.3.0-rc.1), today) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
+- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.3.0](https://github.com/axiomhq/hyperloglog/releases/tag/v0.3.0), today) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.43.2](https://github.com/charmbracelet/fantasy/releases/tag/v0.43.2), today) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.9.2](https://github.com/home-assistant/core/releases/tag/2026.9.2), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.20.0](https://github.com/axiomhq/cli/releases/tag/v0.20.0), 3 days ago) - The power of Axiom on the command line.
