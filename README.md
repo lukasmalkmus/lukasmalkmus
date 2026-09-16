@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.38.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.38.0), today) - Browser automation CLI for AI agents
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.38.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.38.1), today) - Browser automation CLI for AI agents
 - [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.3.0](https://github.com/axiomhq/hyperloglog/releases/tag/v0.3.0), 2 days ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.43.2](https://github.com/charmbracelet/fantasy/releases/tag/v0.43.2), 2 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.9.2](https://github.com/home-assistant/core/releases/tag/2026.9.2), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
