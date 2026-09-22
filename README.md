@@ -12,7 +12,7 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.45.0](https://github.com/charmbracelet/fantasy/releases/tag/v0.45.0), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.45.1](https://github.com/charmbracelet/fantasy/releases/tag/v0.45.1), today) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.9.3](https://github.com/home-assistant/core/releases/tag/2026.9.3), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.37.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.37.1), 5 days ago) - Official Go bindings for the Axiom API
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.38.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.38.1), 6 days ago) - Browser automation CLI for AI agents
