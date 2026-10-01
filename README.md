@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.0b0](https://github.com/home-assistant/core/releases/tag/2026.10.0b0), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.0b0](https://github.com/home-assistant/core/releases/tag/2026.10.0b0), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.45.2](https://github.com/charmbracelet/fantasy/releases/tag/v0.45.2), 1 week ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.37.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.37.1), 1 week ago) - Official Go bindings for the Axiom API
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.37.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.37.1), 2 weeks ago) - Official Go bindings for the Axiom API
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.38.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.38.1), 2 weeks ago) - Browser automation CLI for AI agents
 - [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) ([v0.3.0](https://github.com/axiomhq/hyperloglog/releases/tag/v0.3.0), 2 weeks ago) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom
 
