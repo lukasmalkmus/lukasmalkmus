@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.0b4](https://github.com/home-assistant/core/releases/tag/2026.10.0b4), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [axiomhq/skills](https://github.com/axiomhq/skills) ([v1.1.0](https://github.com/axiomhq/skills/releases/tag/v1.1.0), 5 days ago) - 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.38.2](https://github.com/vercel-labs/agent-browser/releases/tag/v0.38.2), 6 days ago) - Browser automation CLI for AI agents
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.45.2](https://github.com/charmbracelet/fantasy/releases/tag/v0.45.2), 2 weeks ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.37.1](https://github.com/axiomhq/axiom-go/releases/tag/v0.37.1), 2 weeks ago) - Official Go bindings for the Axiom API
+- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.11.2](https://github.com/lukasmalkmus/pngx/releases/tag/v0.11.2), today) - AI-native CLI for Paperless-ngx
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.0b7](https://github.com/home-assistant/core/releases/tag/2026.10.0b7), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.6.2](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.6.2), today) - Agent-native CLI for 1nitetent.com campgrounds
+- [lukasmalkmus/moneymoney](https://github.com/lukasmalkmus/moneymoney) ([v0.7.2](https://github.com/lukasmalkmus/moneymoney/releases/tag/v0.7.2), today) - Agent-native CLI (mm) and MCP server for MoneyMoney
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.38.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.38.0), today) - Official Go bindings for the Axiom API
 
 #### 💬 Feedback
 
