@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.39.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.39.1), today) - Browser automation CLI for AI agents
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.45.3](https://github.com/charmbracelet/fantasy/releases/tag/v0.45.3), today) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.1](https://github.com/home-assistant/core/releases/tag/2026.10.1), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [axiomhq/skills](https://github.com/axiomhq/skills) ([v1.1.2](https://github.com/axiomhq/skills/releases/tag/v1.1.2), 6 days ago) - Use Axiom in your coding agent to search logs, query metrics, and follow traces. Dig into production errors and slow requests, build dashboards, and set up alerts. Includes the Axiom MCP connection and skills for incident response, monitoring, and translating Splunk queries.
-- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.11.2](https://github.com/lukasmalkmus/pngx/releases/tag/v0.11.2), 6 days ago) - AI-native CLI for Paperless-ngx
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.39.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.39.1), 1 day ago) - Browser automation CLI for AI agents
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.45.3](https://github.com/charmbracelet/fantasy/releases/tag/v0.45.3), 1 day ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.1](https://github.com/home-assistant/core/releases/tag/2026.10.1), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [axiomhq/skills](https://github.com/axiomhq/skills) ([v1.1.2](https://github.com/axiomhq/skills/releases/tag/v1.1.2), 1 week ago) - Use Axiom in your coding agent to search logs, query metrics, and follow traces. Dig into production errors and slow requests, build dashboards, and set up alerts. Includes the Axiom MCP connection and skills for incident response, monitoring, and translating Splunk queries.
+- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.11.2](https://github.com/lukasmalkmus/pngx/releases/tag/v0.11.2), 1 week ago) - AI-native CLI for Paperless-ngx
 
 #### 💬 Feedback
 
