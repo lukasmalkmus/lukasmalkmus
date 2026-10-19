@@ -12,9 +12,9 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.2](https://github.com/home-assistant/core/releases/tag/2026.10.2), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.39.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.39.1), 5 days ago) - Browser automation CLI for AI agents
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.45.3](https://github.com/charmbracelet/fantasy/releases/tag/v0.45.3), 5 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.2](https://github.com/home-assistant/core/releases/tag/2026.10.2), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.39.1](https://github.com/vercel-labs/agent-browser/releases/tag/v0.39.1), 6 days ago) - Browser automation CLI for AI agents
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) ([v0.45.3](https://github.com/charmbracelet/fantasy/releases/tag/v0.45.3), 6 days ago) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [axiomhq/skills](https://github.com/axiomhq/skills) ([v1.1.2](https://github.com/axiomhq/skills/releases/tag/v1.1.2), 1 week ago) - Use Axiom in your coding agent to search logs, query metrics, and follow traces. Dig into production errors and slow requests, build dashboards, and set up alerts. Includes the Axiom MCP connection and skills for incident response, monitoring, and translating Splunk queries.
 - [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.11.2](https://github.com/lukasmalkmus/pngx/releases/tag/v0.11.2), 1 week ago) - AI-native CLI for Paperless-ngx
 
