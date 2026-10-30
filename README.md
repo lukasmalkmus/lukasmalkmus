@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b1](https://github.com/home-assistant/core/releases/tag/2026.11.0b1), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [axiomhq/skills](https://github.com/axiomhq/skills) ([v1.2.1](https://github.com/axiomhq/skills/releases/tag/v1.2.1), today) - Use Axiom in your coding agent to search logs, query metrics, and follow traces. Dig into production errors and slow requests, build dashboards, and set up alerts. Includes the Axiom MCP connection and skills for incident response, monitoring, and translating Splunk queries.
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.41.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.41.0), today) - Browser automation CLI for AI agents
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.21.0](https://github.com/axiomhq/cli/releases/tag/v0.21.0), 1 day ago) - The power of Axiom on the command line.
-- [axiomhq/annotation-action](https://github.com/axiomhq/annotation-action) ([v0.2.0](https://github.com/axiomhq/annotation-action/releases/tag/v0.2.0), 2 days ago) - This action allows you to create an annotation in Axiom.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b1](https://github.com/home-assistant/core/releases/tag/2026.11.0b1), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [axiomhq/skills](https://github.com/axiomhq/skills) ([v1.2.1](https://github.com/axiomhq/skills/releases/tag/v1.2.1), 1 day ago) - Use Axiom in your coding agent to search logs, query metrics, and follow traces. Dig into production errors and slow requests, build dashboards, and set up alerts. Includes the Axiom MCP connection and skills for incident response, monitoring, and translating Splunk queries.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.41.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.41.0), 1 day ago) - Browser automation CLI for AI agents
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.21.0](https://github.com/axiomhq/cli/releases/tag/v0.21.0), 2 days ago) - The power of Axiom on the command line.
+- [axiomhq/annotation-action](https://github.com/axiomhq/annotation-action) ([v0.2.0](https://github.com/axiomhq/annotation-action/releases/tag/v0.2.0), 3 days ago) - This action allows you to create an annotation in Axiom.
 
 #### 💬 Feedback
 
