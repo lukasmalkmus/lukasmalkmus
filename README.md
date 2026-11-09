@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.39.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.39.0), 3 days ago) - Official Go bindings for the Axiom API
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0](https://github.com/home-assistant/core/releases/tag/2026.11.0), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.41.2](https://github.com/vercel-labs/agent-browser/releases/tag/v0.41.2), 5 days ago) - Browser automation CLI for AI agents
-- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.6.5](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.6.5), 5 days ago) - Agent-native CLI for 1nitetent.com campgrounds
-- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.11.5](https://github.com/lukasmalkmus/pngx/releases/tag/v0.11.5), 5 days ago) - AI-native CLI for Paperless-ngx
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.39.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.39.0), 4 days ago) - Official Go bindings for the Axiom API
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0](https://github.com/home-assistant/core/releases/tag/2026.11.0), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.41.2](https://github.com/vercel-labs/agent-browser/releases/tag/v0.41.2), 6 days ago) - Browser automation CLI for AI agents
+- [lukasmalkmus/1nitetent](https://github.com/lukasmalkmus/1nitetent) ([v0.6.5](https://github.com/lukasmalkmus/1nitetent/releases/tag/v0.6.5), 6 days ago) - Agent-native CLI for 1nitetent.com campgrounds
+- [lukasmalkmus/pngx](https://github.com/lukasmalkmus/pngx) ([v0.11.5](https://github.com/lukasmalkmus/pngx/releases/tag/v0.11.5), 6 days ago) - AI-native CLI for Paperless-ngx
 
 #### 💬 Feedback
 
