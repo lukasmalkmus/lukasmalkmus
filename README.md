@@ -12,11 +12,11 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.44.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.44.0), 1 day ago) - Browser automation CLI for AI agents
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.3](https://github.com/home-assistant/core/releases/tag/2026.11.3), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.14.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.14.0), 1 day ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
-- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.23.0](https://github.com/axiomhq/cli/releases/tag/v0.23.0), 5 days ago) - The power of Axiom on the command line.
-- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.41.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.41.0), 6 days ago) - Official Go bindings for the Axiom API
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.44.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.44.0), 2 days ago) - Browser automation CLI for AI agents
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.3](https://github.com/home-assistant/core/releases/tag/2026.11.3), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.14.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.14.0), 2 days ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
+- [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.23.0](https://github.com/axiomhq/cli/releases/tag/v0.23.0), 6 days ago) - The power of Axiom on the command line.
+- [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.41.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.41.0), 1 week ago) - Official Go bindings for the Axiom API
 
 #### 💬 Feedback
 
