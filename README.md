@@ -12,8 +12,8 @@ It's me, Lukas. Software developer by day and night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.45.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.45.0), 1 day ago) - Browser automation CLI for AI agents
-- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.14.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.14.0), 3 days ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([v0.45.0](https://github.com/vercel-labs/agent-browser/releases/tag/v0.45.0), 2 days ago) - Browser automation CLI for AI agents
+- [lukasmalkmus/tankerkoenig_exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter) ([v0.14.0](https://github.com/lukasmalkmus/tankerkoenig_exporter/releases/tag/v0.14.0), 4 days ago) - A prometheus exporter for the Tankerkoenig API (gas prices).
 - [axiomhq/cli](https://github.com/axiomhq/cli) ([v0.23.0](https://github.com/axiomhq/cli/releases/tag/v0.23.0), 1 week ago) - The power of Axiom on the command line.
 - [axiomhq/axiom-go](https://github.com/axiomhq/axiom-go) ([v0.41.0](https://github.com/axiomhq/axiom-go/releases/tag/v0.41.0), 1 week ago) - Official Go bindings for the Axiom API
 - [axiomhq/skills](https://github.com/axiomhq/skills) ([v1.3.0](https://github.com/axiomhq/skills/releases/tag/v1.3.0), 2 weeks ago) - Use Axiom in your coding agent to search logs, query metrics, and follow traces. Dig into production errors and slow requests, build dashboards, and set up alerts. Includes the Axiom MCP connection and skills for incident response, monitoring, and translating Splunk queries.
